@@ -67,7 +67,7 @@ color_scheme: dark
 
 # Define Jekyll collections
 collections:
-  # Define a collection named "tests", its documents reside in the "_tests" directory
+  # Define a collection named "project-managers", its documents reside in the "_project-managers" directory
   project-managers:
     permalink: "/:collection/:path/"
     output: true
@@ -75,7 +75,7 @@ collections:
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-    # Reference the "tests" collection
+    # Reference the "project-managers" collection
     project-managers:
       # Give the collection a name
       name: For Project Managers
@@ -88,3 +88,7 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
+    obc-members:
+      name: For OBC Team Members
+      nav_fold: true  
+
