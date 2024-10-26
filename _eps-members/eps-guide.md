@@ -1,5 +1,5 @@
 ---
-title: Getting Started for OBC Team Members
+title: Guide for EPS Team Members
 layout: default
 ---
 
@@ -9,3 +9,5 @@ layout: default
 ### *Introduction*
 
 This introduction is an overview of the project, how it is organised, and how it works.
+
+This guide is intended for...

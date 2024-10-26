@@ -90,4 +90,15 @@ just_the_docs:
     obc-members:
       name: For OBC Team Members
       nav_fold: true  
-
+    eps-members:
+      name: For EPS Team Members
+      nav_fold: true  
+    com-members:
+      name: For COM Team Members
+      nav_fold: true  
+    adcs-members:
+      name: For ADCS Team Members
+      nav_fold: true
+    structure-members:
+      name: For Structure Team Members
+      nav_fold: true  
