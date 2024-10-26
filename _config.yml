@@ -1,8 +1,9 @@
 title: Build-A-Satellite
-description: The BIRDS Open Source Project is a collection of starter resources and guides to help build your nation's space capacity.
+description: The BIRDS Build-A-Satellite Project is a comprehensive guide for designing, building, testing, and launching a small satellite. Whether you’re a beginner or an experienced developer, our documentation is structured to assist you at every stage of the satellite development process.
 theme: just-the-docs
+email: null
 
-url: https://birdsopensource.github.io/docs/
+url: https://birdsopensource.github.io/Build-A-Satellite/
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/birds-logo-light.png"
@@ -13,6 +14,7 @@ favicon_ico: "/assets/images/favicon.ico"
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
+
 
 search:
   # Split pages into sections that can be searched individually
@@ -56,7 +58,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/BIRDSOpenSource/docs" # the github URL for your repo
+gh_edit_repository: "https://github.com/BIRDSOpenSource/Build-A-Satellite" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
