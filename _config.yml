@@ -70,6 +70,30 @@ collections:
   project-managers:
     permalink: "/:collection/:path/"
     output: true
+  
+  obc-members:
+    permalink: "/:collection/:path/"
+    output: true
+  
+  eps-members:
+    permalink: "/:collection/:path/"
+    output: true
+  
+  com-members:
+    permalink: "/:collection/:path/"
+    output: true
+  
+  adcs-members:
+    permalink: "/:collection/:path/"
+    output: true
+
+  structure-members:
+    permalink: "/:collection/:path/"
+    output: true
+
+  resources:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -87,18 +111,33 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
+
+    # Reference the "obc-members" collection
     obc-members:
       name: For OBC Team Members
       nav_fold: true  
+
+    # Reference the "eps-members" collection
     eps-members:
       name: For EPS Team Members
       nav_fold: true  
+
+    # Reference the "com-members" collection
     com-members:
       name: For COM Team Members
       nav_fold: true  
+
+    # Reference the "adcs-members" collection
     adcs-members:
       name: For ADCS Team Members
       nav_fold: true
+
+    # Reference the "structure-members" collection
     structure-members:
       name: For Structure Team Members
+      nav_fold: true  
+
+    # Reference the "resources" collection
+    resources:
+      name: Resources
       nav_fold: true  
