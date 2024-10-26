@@ -1,4 +1,4 @@
-# just-the-docs-template
+# Build-A-Satellite-Docs
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
