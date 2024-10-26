@@ -10,3 +10,4 @@ group :jekyll_plugins do
     gem "jekyll-polyglot"
     gem "webrick" # required when using Ruby >= 3 and Jekyll <= 4.2.2
     gem "base64", "~> 0.2.0"
+end
