@@ -89,6 +89,7 @@ DEPENDENCIES
   base64 (~> 0.2.0)
   jekyll (~> 4.3.3)
   just-the-docs (= 0.9.0)
+  webrick
 
 BUNDLED WITH
    2.5.9
