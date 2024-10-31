@@ -6,10 +6,8 @@ layout: default
 # Guide for Project Managers
 {: .no_toc }
 
-{: .note-title }
-> Caution
->
-> We try to make this resources as comprehensive as possible but htis is by no means the only resource you shoul dlook to when starting your work.
+{: .caution }
+We try to make this resources as comprehensive as possible but htis is by no means the only resource you shoul dlook to when starting your work.
 
 
 - Table of Contents
