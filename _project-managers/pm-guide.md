@@ -5,6 +5,18 @@ layout: default
 
 ## *We make space sector capacity building accessible to everyone*
 
+Introduction {:toc}
+Scope and Purpose
+Key Responsibilities
+Project Phases and Milestones
+Systems Engineering and Technical Overview
+Documentation Management
+Risk Management
+Regulatory and Compliance
+Project Management Tools and Techniques
+Leadership and Team Dynamics
+Resources for Further Learning
+Templates and Checklists
 
 ## *Introduction*
 
@@ -13,7 +25,7 @@ This introduction is an overview of the project, how it is organised, and how it
 This guide is for...
 
 
-A guide for project managers of a satellite team can be an invaluable resource, especially in navigating the complexities of space projects. Here’s a framework to get started:
+A guide for project managers of a satellite team can be an invaluable resource, especially in navigating the complexities of space projects. Here’s a framework to get started: 
 
 ### 1. **Define the Scope and Purpose**
    - **Purpose**: Start by defining why the guide exists. Outline the benefits it will provide, such as helping project managers streamline processes, set clear milestones, manage risk, and facilitate team collaboration.
