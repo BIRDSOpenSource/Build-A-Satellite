@@ -119,6 +119,10 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
+  bpb-members:
+    permalink: "/:collection/:path/"
+    output: true
+
   structure-members:
     permalink: "/:collection/:path/"
     output: true
@@ -164,6 +168,11 @@ just_the_docs:
       name: For ADCS Team Members
       nav_fold: true
 
+    # Reference the "bpb-members" collection
+    bpb-members:
+      name: For BPB Team Members
+      nav_fold: true
+
     # Reference the "structure-members" collection
     structure-members:
       name: For Structure Team Members
@@ -173,6 +182,7 @@ just_the_docs:
     resources:
       name: Resources
       nav_fold: true  
+
 
 callouts:
   warning:
