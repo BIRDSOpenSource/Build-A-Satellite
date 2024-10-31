@@ -3,11 +3,59 @@ title: Guide for OBC Team Members
 layout: default
 ---
 
-## *We make space sector capacity building accessible to everyone*
+# *We make space sector capacity building accessible to everyone*
+{: .no_toc }
 
 
-### *Introduction*
+- Table of Contents
+{:toc}
 
+## Introduction
+{:toc}
 This introduction is an overview of the project, how it is organised, and how it works.
 
-This guide is intended for...
+
+## Role and Responsibilities of the OBC Team
+{:toc}
+
+
+
+## Key Systems and Architectures
+{:toc}
+
+
+
+## Software Development Lifecycle for OBC
+{:toc}
+
+
+
+## Hardware Requirements and Selection
+{:toc}
+
+
+## Communication Protocols and Data Handling
+{:toc}
+
+
+
+## Testing and Validation
+{:toc}
+
+
+
+## Fault Management and Recovery
+{:toc}
+
+
+
+## Documentation and Version Control
+{:toc}
+
+
+
+## Tools and Resources for OBC Teams
+{:toc}
+
+
+
