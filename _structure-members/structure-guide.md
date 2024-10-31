@@ -3,11 +3,6 @@ title: Guide for Structure Team Members
 layout: default
 ---
 
----
-title: Guide for Project Managers
-layout: default
----
-
 # *We make space sector capacity building accessible to everyone*
 {: .no_toc }
 
@@ -19,58 +14,46 @@ layout: default
 {:toc}
 This introduction is an overview of the project, how it is organised, and how it works.
 
-This guide is for...A guide for project managers of a satellite team can be an invaluable resource, especially in navigating the complexities of space projects. Here’s a framework to get started: 
 
-## Scope and Purpose
+## Role and Responsibilities of the Structural Team
 {:toc}
 
 
 
-## Key Responsibilities
+## Key Structural Design Considerations
 {:toc}
 
 
 
-## Project Phases and Milestones
+## Material Selection
 {:toc}
 
 
 
-## Systems Engineering and Technical Overview
+## Structural Analysis and Simulation
 {:toc}
 
 
-## Documentation Management
-{:toc}
-
-
-
-## Risk Management
+## Integration with Other Subsystems
 {:toc}
 
 
 
-## Regulatory and Compliance
+## Testing and Verification Procedures
 {:toc}
 
 
 
-## Project Management Tools and Techniques
+## Documentation and Version Control
 {:toc}
 
 
 
-## Leadership and Team Dynamics
+## Standards and Compliance
 {:toc}
 
 
 
-## Resources for Further Learning
+## Tools and Resources for Structural Teams
 {:toc}
-
-
-
-## Templates and Checklists
-{:toc}
-
 
