@@ -3,11 +3,6 @@ title: Guide for ADCS Team Members
 layout: default
 ---
 
----
-title: Guide for Project Managers
-layout: default
----
-
 # *We make space sector capacity building accessible to everyone*
 {: .no_toc }
 
@@ -19,58 +14,50 @@ layout: default
 {:toc}
 This introduction is an overview of the project, how it is organised, and how it works.
 
-This guide is for...A guide for project managers of a satellite team can be an invaluable resource, especially in navigating the complexities of space projects. Here’s a framework to get started: 
 
-## Scope and Purpose
+## Role and Responsibilities of the ADCS Team
 {:toc}
 
 
 
-## Key Responsibilities
+## Overview of Satellite Attitude Control
 {:toc}
 
 
 
-## Project Phases and Milestones
+## ADCS Sensors
 {:toc}
 
 
 
-## Systems Engineering and Technical Overview
+## ADCS Actuators
 {:toc}
 
 
-## Documentation Management
-{:toc}
-
-
-
-## Risk Management
+## Control Algorithms and Attitude Control Modes
 {:toc}
 
 
 
-## Regulatory and Compliance
+## Mission-Specific Requirements
 {:toc}
 
 
 
-## Project Management Tools and Techniques
+## Testing and Calibration Procedures
 {:toc}
 
 
 
-## Leadership and Team Dynamics
+## Fault Detection, Isolation, and Recovery (FDIR)
 {:toc}
 
 
 
-## Resources for Further Learning
+## Documentation and Version Control
 {:toc}
 
 
 
-## Templates and Checklists
+## Tools and Resources for ADCS Teams
 {:toc}
-
-
