@@ -19,58 +19,50 @@ layout: default
 {:toc}
 This introduction is an overview of the project, how it is organised, and how it works.
 
-This guide is for...A guide for project managers of a satellite team can be an invaluable resource, especially in navigating the complexities of space projects. Here’s a framework to get started: 
 
-## Scope and Purpose
+## Role and Responsibilities of the EPS Team
 {:toc}
 
 
 
-## Key Responsibilities
+## Overview of Satellite EPS Architecture
 {:toc}
 
 
 
-## Project Phases and Milestones
+## Power Generation
 {:toc}
 
 
 
-## Systems Engineering and Technical Overview
+## Power Storage
 {:toc}
 
 
-## Documentation Management
-{:toc}
-
-
-
-## Risk Management
+## Power Regulation and Distribution
 {:toc}
 
 
 
-## Regulatory and Compliance
+## Power Budgeting and Management
 {:toc}
 
 
 
-## Project Management Tools and Techniques
+## Fault Detection, Isolation, and Recovery (FDIR)
 {:toc}
 
 
 
-## Leadership and Team Dynamics
+## Testing and Validation
 {:toc}
 
 
 
-## Resources for Further Learning
+## Documentation and Version Control
 {:toc}
 
 
 
-## Templates and Checklists
+## Tools and Resources for EPS Teams
 {:toc}
-
-
