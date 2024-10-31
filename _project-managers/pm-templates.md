@@ -1,5 +1,5 @@
 ---
-title: Templates and Checklists for Project Managers
+title: Templates and Checklists
 layout: default
 ---
 
