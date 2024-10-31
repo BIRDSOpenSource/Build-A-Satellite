@@ -7,7 +7,7 @@ layout: default
 {: .no_toc }
 
 {: .caution }
-We try to make this resources as comprehensive as possible but htis is by no means the only resource you shoul dlook to when starting your work.
+We are trying to make this resource as comprehensive as possible but this is by no means the only resource you should refer to when starting your work.
 
 
 - Table of Contents
