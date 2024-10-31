@@ -3,11 +3,6 @@ title: Guide for EPS Team Members
 layout: default
 ---
 
----
-title: Guide for Project Managers
-layout: default
----
-
 # *We make space sector capacity building accessible to everyone*
 {: .no_toc }
 

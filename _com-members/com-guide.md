@@ -3,11 +3,6 @@ title: Guide for COM Team Members
 layout: default
 ---
 
----
-title: Guide for Project Managers
-layout: default
----
-
 # *We make space sector capacity building accessible to everyone*
 {: .no_toc }
 
@@ -19,58 +14,54 @@ layout: default
 {:toc}
 This introduction is an overview of the project, how it is organised, and how it works.
 
-This guide is for...A guide for project managers of a satellite team can be an invaluable resource, especially in navigating the complexities of space projects. Here’s a framework to get started: 
 
-## Scope and Purpose
+## Role and Responsibilities of the COM Team
 {:toc}
 
 
 
-## Key Responsibilities
+## Satellite Communication Basics
 {:toc}
 
 
 
-## Project Phases and Milestones
+## Frequency Selection and Licensing
 {:toc}
 
 
 
-## Systems Engineering and Technical Overview
-{:toc}
-
-
-## Documentation Management
+## Transmitter and Receiver Design
 {:toc}
 
 
 
-## Risk Management
+## Antenna Design and Configuration
 {:toc}
 
 
 
-## Regulatory and Compliance
+## Signal Processing and Data Encoding
 {:toc}
 
 
 
-## Project Management Tools and Techniques
+## Link Budget Analysis
 {:toc}
 
 
 
-## Leadership and Team Dynamics
+## Testing and Validation
 {:toc}
 
 
 
-## Resources for Further Learning
+## Documentation and Version Control
 {:toc}
 
 
 
-## Templates and Checklists
+## Tools and Resources for COM Teams
 {:toc}
+
 
 
