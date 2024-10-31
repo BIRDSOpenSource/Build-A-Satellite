@@ -3,20 +3,36 @@ title: Guide for Project Managers
 layout: default
 ---
 
-## *We make space sector capacity building accessible to everyone*
+# *We make space sector capacity building accessible to everyone*
 
-Introduction {:toc}
-Scope and Purpose
-Key Responsibilities
-Project Phases and Milestones
-Systems Engineering and Technical Overview
-Documentation Management
-Risk Management
-Regulatory and Compliance
-Project Management Tools and Techniques
-Leadership and Team Dynamics
-Resources for Further Learning
-Templates and Checklists
+
+## Table of Contents
+{: .no_toc }
+
+- Introduction 
+{:toc}
+- Scope and Purpose
+{:toc}
+- Key Responsibilities
+{:toc}
+- Project Phases and Milestones
+{:toc}
+- Systems Engineering and Technical Overview
+{:toc}
+- Documentation Management
+{:toc}
+- Risk Management
+{:toc}
+- - Regulatory and Compliance
+{:toc}
+- Project Management Tools and Techniques
+{:toc}
+- Leadership and Team Dynamics
+{:toc}
+- Resources for Further Learning
+{:toc}
+- Templates and Checklists
+{:toc}
 
 ## *Introduction*
 
