@@ -65,10 +65,3 @@ This guide is for...A guide for project managers of a satellite team can be an i
 
 ## Resources for Further Learning
 {:toc}
-
-
-
-## Templates and Checklists
-{:toc}
-
-

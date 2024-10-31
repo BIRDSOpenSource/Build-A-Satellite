@@ -1,13 +1,13 @@
 ---
-title: Introduction
+title: Getting Started
 layout: home
 ---
+
 # *So, you want to build a satellite?*
 
+## Introduction
 
-### *Introduction*
-
-We are creating an environment for sharing knowledge and ideas.
+### We are creating an environment for sharing knowledge and ideas.
 
 By using the Open Source Satellite platform as the means to advance the next phase of low-cost, high-capability satellite missions, we hope to pique interest and increase access to information that will inspire the next generation of mission creators and end users.
 
