@@ -3,11 +3,6 @@ title: Guide for OBC Team Members
 layout: default
 ---
 
----
-title: Guide for Project Managers
-layout: default
----
-
 # *We make space sector capacity building accessible to everyone*
 {: .no_toc }
 
@@ -19,58 +14,48 @@ layout: default
 {:toc}
 This introduction is an overview of the project, how it is organised, and how it works.
 
-This guide is for...A guide for project managers of a satellite team can be an invaluable resource, especially in navigating the complexities of space projects. Here’s a framework to get started: 
 
-## Scope and Purpose
+## Role and Responsibilities of the OBC Team
 {:toc}
 
 
 
-## Key Responsibilities
+## Key Systems and Architectures
 {:toc}
 
 
 
-## Project Phases and Milestones
+## Software Development Lifecycle for OBC
 {:toc}
 
 
 
-## Systems Engineering and Technical Overview
+## Hardware Requirements and Selection
 {:toc}
 
 
-## Documentation Management
-{:toc}
-
-
-
-## Risk Management
+## Communication Protocols and Data Handling
 {:toc}
 
 
 
-## Regulatory and Compliance
+## Testing and Validation
 {:toc}
 
 
 
-## Project Management Tools and Techniques
+## Fault Management and Recovery
 {:toc}
 
 
 
-## Leadership and Team Dynamics
+## Documentation and Version Control
 {:toc}
 
 
 
-## Resources for Further Learning
+## Tools and Resources for OBC Teams
 {:toc}
 
-
-
-## Templates and Checklists
-{:toc}
 
 
