@@ -11,6 +11,6 @@ layout: default
 
 | Term | {Optional} Abbreviation | Definition | {Optional} Source |
 | --- | --- | --- | --- |
-|   {Term}  |  {Abbreviation}   |  {Definition}   |   {Source}   |
+|   CubeSat  |     |  {Definition}   |   {Source}   |
 
 {Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Glossary) to give feedback on this template.}
