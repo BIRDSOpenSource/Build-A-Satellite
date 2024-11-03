@@ -2,7 +2,7 @@ title: Build-A-Satellite
 description: The BIRDS Build-A-Satellite Project is a comprehensive guide for designing, building, testing, and launching a small satellite. Whether you’re a beginner or an experienced developer, our documentation is structured to assist you at every stage of the satellite development process.
 theme: just-the-docs
 email: null
-
+repository: BIRDSOpenSource/Build-A-Satellite/ # for github-metadata
 url: https://birdsopensource.github.io/Build-A-Satellite/
 
 # Set a path/url to a logo that will be displayed instead of the title
@@ -183,7 +183,7 @@ just_the_docs:
       name: Resources
       nav_fold: true  
 
-
+callouts_opacity: 0.3
 callouts:
   warning:
     title: Warning
@@ -200,9 +200,3 @@ callouts:
     color: blue
     opacity: 0.7
 
-callouts_opacity: 0.3
-
-mermaid:
-  # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "9.1.3"
