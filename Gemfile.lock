@@ -12,13 +12,13 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.0-arm64-darwin)
-    ffi (1.17.0-x86_64-linux-gnu)
+    ffi (1.17.0-x86_64-darwin)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     google-protobuf (4.28.3-arm64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.28.3-x86_64-linux)
+    google-protobuf (4.28.3-x86_64-darwin)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -40,8 +40,6 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-polyglot (1.8.1)
-      jekyll (>= 4.0, >= 3.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -68,7 +66,7 @@ GEM
     mercenary (0.4.0)
     nokogiri (1.16.7-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.16.7-x86_64-linux)
+    nokogiri (1.16.7-x86_64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -82,10 +80,9 @@ GEM
     rexml (3.3.9)
     rouge (4.4.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.80.6)
-      google-protobuf (~> 4.28)
-      rake (>= 13)
     sass-embedded (1.80.6-arm64-darwin)
+      google-protobuf (~> 4.28)
+    sass-embedded (1.80.6-x86_64-darwin)
       google-protobuf (~> 4.28)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
@@ -94,15 +91,14 @@ GEM
 
 PLATFORMS
   arm64-darwin
-  x86_64-linux-gnu
+  x86_64-darwin
 
 DEPENDENCIES
   base64 (~> 0.2.0)
   jekyll (~> 4.3.2)
-  jekyll-polyglot
   jekyll-spaceship
   just-the-docs (= 0.5.4)
   webrick
 
 BUNDLED WITH
-   2.5.9
+   2.5.16
