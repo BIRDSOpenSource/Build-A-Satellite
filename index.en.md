@@ -3,13 +3,6 @@ title: Getting Started
 layout: home
 lang: en
 ---
-{% for lang in site.languages %}
-    {% if lang == site.default_lang %}
-{{ lang }} (Default)
-    {% else %}
-{{ lang }}
-    {% endif %}
-{% endfor %}
 
 # *Getting Started*
 {: .no_toc }

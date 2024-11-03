@@ -3,13 +3,6 @@ title: はじめに
 layout: ホーム
 lang: jp
 ---
-{% for lang in site.languages %}
-    {% if lang == site.default_lang %}
-{{ lang }} (Default)
-    {% else %}
-{{ lang }}
-    {% endif %}
-{% endfor %}
 
 # はじめに
 {: .no_toc }.
