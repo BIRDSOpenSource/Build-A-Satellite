@@ -202,3 +202,7 @@ callouts:
 
 callouts_opacity: 0.3
 
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
