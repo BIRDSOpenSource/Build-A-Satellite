@@ -1,6 +1,7 @@
 ---
 title: Guide for EPS Team Members
 layout: default
+lang: en
 ---
 
 # *We make space sector capacity building accessible to everyone*

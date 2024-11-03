@@ -1,6 +1,7 @@
 ---
 title: Glossary 
 layout: default
+lang: en
 ---
 
 # Glossary 

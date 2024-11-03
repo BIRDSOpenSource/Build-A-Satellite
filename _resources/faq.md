@@ -1,6 +1,7 @@
 ---
 title: FAQ
 layout: default
+lang: en
 ---
 
 # Frequently Asked Questions

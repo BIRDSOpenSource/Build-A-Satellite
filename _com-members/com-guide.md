@@ -1,6 +1,7 @@
 ---
 title: Guide for COM Team Members
 layout: default
+lang: en
 ---
 
 # *We make space sector capacity building accessible to everyone*
