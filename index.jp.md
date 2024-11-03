@@ -1,6 +1,7 @@
 ---
 title: はじめに
 layout: ホーム
+permalink: "/"
 lang: jp
 ---
 

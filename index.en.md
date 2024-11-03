@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 layout: home
+permalink: "/"
 lang: en
 ---
 
