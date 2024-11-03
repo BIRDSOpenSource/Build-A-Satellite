@@ -1,31 +1,34 @@
 ---
-title: Getting Started
-layout: home
+title: はじめに
+layout: ホーム
+lang: jp
 ---
-
-# *Getting Started*
-{: .no_toc }
+# はじめに
+{: .no_toc }.
 
 {: .caution }
-We are trying to make this resource as comprehensive as possible but this is by no means the only resource you should refer to when starting your work.
+私たちはこのリソースを可能な限り包括的なものにしようとしていますが、仕事を始める際に参照すべきリソースは決してこれだけではありません。
 
-- Table of Contents
+- 目次
 {:toc}
 
-## **1. Introduction**
-   The BIRDS program, developed in the Laboratory of Lean Satellite Enterprises and In-Orbit Experiment at Kyushu Institute of Technology (Kyutech), embodies a global initiative focused on advancing space development and educational opportunities for emerging spacefaring nations. To ensure mission success, rigorous testing and validation processes are vital for each subsystem of the satellite. 
+## **1. はじめに
+   九州工業大学（九工大）のリーン衛星企業・軌道上実験研究室で開発されたBIRDSプログラ ムは、宇宙開発および新興宇宙開発国の教育機会を促進することに重点を置いたグローバルイ ニシアティブを体現するものである。ミッションの成功を確実にするためには、衛星の各サブシステムに対して厳密な試験と検証プロセスが不可欠です。
 
-   This guide is intended to facilitate a comprehensive understanding of the usage of BIRDS Bus subsystem testing documents, empowering team members and collaborators to follow standardized procedures for reliable subsystem performance.
+   本ガイドは、BIRDS バスのサブシステム試験文書の使用方法を包括的に理解し、チームメンバーや協力者が信頼性の高いサブシステム性能を実現するための標準化された手順に従うことができるようにすることを目的としています。
 
-   This document outlines the purpose, structure, and practical steps for using the testing process and procedural guides for subsystems such as the On-Board Computer (OBC), Electrical Power System (EPS), Attitude Determination and Control System (ADCS), Communications (COM), and the structural components of BIRDS satellites.
+   本書は、オンボードコンピュータ（OBC）、電力システム（EPS）、姿勢決定制御システム（ADCS）、通信（COM）、BIRDS衛星の構造部品などのサブシステムの試験プロセスおよび手順ガイドを使用する目的、構造、実践的な手順を概説しています。
+
 
 ### We are creating an environment for sharing knowledge and ideas.
 {: .no_toc }
-By using the Open Source Satellite platform as the means to advance the next phase of low-cost, high-capability satellite missions, we hope to pique interest and increase access to information that will inspire the next generation of mission creators and end users.
+### 私たちは知識とアイデアを共有する環境を作っています。
+{: .no_toc }.
+オープンソースサテライトプラットフォームを、低コストで高キャパビリティの衛星ミッションの次の段階を進めるための手段として利用することで、次世代のミッションクリエイターやエンドユーザーを刺激するような情報への関心やアクセスを高めたいと考えています。
 
-To help you create your own open source satellite mission, we are building a library of resources that will cover the entire mission lifetime from start to finish. 
+独自のオープンソース衛星ミッションの作成を支援するため、私たちは、ミッションの開始から終了までの全ライフタイムをカバーするリソースのライブラリを構築しています。
 
-If you would want to contribute to, or work with the birds-project.com community in order to assist in developing this solution, please contibute to the [our Discussions channel on Github] or [get in touch with us.]
+このソリューションの開発を支援するために、birds-project.comコミュニティに貢献したり、コミュニティと協力したりしたい場合は、[Github上の私たちのDiscussionsチャンネル] に貢献するか、[私たちと連絡を取ってください。］]
 
 ## **2. What are the phases of a satellite?**
   The development and deployment of a satellite involve a series of carefully structured phases to ensure the mission's success. From initial concept discussions to final pre-launch verifications, these phases guide teams through designing, building, and testing the satellite to meet stringent space industry standards. 
@@ -153,5 +156,6 @@ These phases create a structured pathway from conceptualization to launch, with 
 
 [GitHub Issues.]: https://github.com/BIRDSOpenSource/Build-A-Satellite/issues
 [GitHub]: https://github.com/BIRDSOpenSource
-[our Discussions channel on Github]: https://github.com/orgs/BIRDSOpenSource/discussions/categories/ideas
-[get in touch with us.]: info@kyutech-laseine.net
+
+[Github上の私たちのDiscussionsチャンネル]: https://github.com/orgs/BIRDSOpenSource/discussions/categories/ideas
+[私たちと連絡を取ってください]: info@kyutech-laseine.net

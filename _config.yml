@@ -200,5 +200,10 @@ callouts:
     color: blue
     opacity: 0.7
 
-plugins:
-  - jekyll-spaceship
+languages: ["en", "jp"]
+default_lang: "en"
+exclude_from_localization: ["assets/diagrams", "assets/images"]
+parallel_localization: true
+
+sass:
+  sourcemap: never
