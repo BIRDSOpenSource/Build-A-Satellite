@@ -56,19 +56,17 @@ graph TD;
     B-->D;
     C-->D;
 ```
+|              Stage | Direct Products | ATP Yields |
+| -----------------: | --------------: | ---------: |
+|         Glycolysis |          2 ATP              ||
+| ^^                 |          2 NADH |   3--5 ATP |
+| Pyruvaye oxidation |          2 NADH |      5 ATP |
+|  Citric acid cycle |          2 ATP              ||
+| ^^                 |          6 NADH |     15 ATP |
+| ^^                 |          2 FADH |      3 ATP |
+|                               30--32 ATP        |||
 
 
-++++
-<pre class="language-mermaid">
-graph TD;
-    accTitle: the diamond pattern
-    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</pre>
-++++
 
 ## **3. Key Technologies and Tools**
    - **Software**:

@@ -200,3 +200,5 @@ callouts:
     color: blue
     opacity: 0.7
 
+plugins:
+  - jekyll-spaceship
