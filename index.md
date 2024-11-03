@@ -141,30 +141,17 @@ These phases create a structured pathway from conceptualization to launch, with 
    - **Regulatory Guidelines**:
      - Be aware of launch provider requirements and national/international space regulations.
 
-## **7. Resources and Further Reading**
-   - **Internal Wiki**: [Link to project wiki]
-   - **Training Material**: [Link to onboarding videos or slides]
-   - **Reference Papers**: [Include links or references to related technical papers]
-   - **Technical Support**:
-     - For assistance, contact [technical lead’s name and email].
-
 ## **8. FAQs**
    - **How do I join the project?**
      - Contact [relevant email/contact link].
    - **Where can I find the project timeline?**
      - View the project roadmap [link to Gantt chart or schedule].
    - **How do I report issues or bugs?**
-     - Use [e.g., GitHub Issues or dedicated bug-tracking tool].
-
-## **9. Contacts and Support**
-   - **Project Manager**: [Name, email]
-   - **Subsystem Leads**: [Name, role, contact information]
-   - **General Inquiries**: [General support email or contact form link]
-
-
+     - Use [GitHub Issues.]
 
 ----
 
+[GitHub Issues.]: https://github.com/BIRDSOpenSource/Build-A-Satellite/issues
 [GitHub]: https://github.com/BIRDSOpenSource
 [our Discussions channel on Github]: https://github.com/orgs/BIRDSOpenSource/discussions/categories/ideas
 [get in touch with us.]: info@kyutech-laseine.net
