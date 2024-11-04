@@ -99,6 +99,7 @@ These phases create a structured pathway from conceptualization to launch, with 
      - **Computer Aided Design (CAD) tools for Design**: Fusion 360
      - **Simulation Tools**: Thermal desktop, STK for mission analysis
      - **Programming Languages**: C/C++, Python 
+     - **Programming Environment**: CCS Compiler, MPLAB IDE
      - **Communication Protocols**: UART, SPI
    - **Hardware**:
      - **Microcontrollers/Boards**: PIC MCUs, custom PCBs
