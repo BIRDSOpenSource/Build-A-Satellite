@@ -32,7 +32,7 @@ layout: default
 | Electrical Power System |EPS| An electrical power system (EPS) is a satellite subsystem that manages the satellie and supplies other systems in the satellite with the necessary electrical power to operate effectively. The EPS is a critical component especially in small satelites such as theluding CubeSats
 | Preliminary Design Review | PDR |
 | Flight Model Testing | FMT | Flight Model testing ivolves subjecting the satellite, known as Flight Model to undergo several rogorous tests. It is done to verify that the satellite's design and construction meet all the functional and environmental requirements for flight.
-| C& DHS|
-| EM | 
-| FM |
+| C& DHS| | |
+| EM |  | |
+| FM |  |  |
 
