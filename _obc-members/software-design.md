@@ -1,6 +1,7 @@
 ---
 title: Software Design
 layout: default
+lang: en
 ---
 
 # Title

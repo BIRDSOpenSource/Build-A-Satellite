@@ -1,5 +1,5 @@
 ---
-title: Guide for Structure Team Members
+title: Guide for Backplane Board Team Members
 layout: default
 lang: en
 ---
