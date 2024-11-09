@@ -1,6 +1,7 @@
 ---
 title: Guide for Backplane Board Team Members
 layout: default
+permalink: "/bpb/guide"
 lang: en
 ---
 

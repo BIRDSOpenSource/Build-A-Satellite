@@ -1,6 +1,7 @@
 ---
 title: Guide for ADCS Team Members
 layout: default
+permalink: "/adcs/guide"
 lang: en
 ---
 

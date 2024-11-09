@@ -1,6 +1,7 @@
 ---
 title: Guide for COM Team Members
 layout: default
+permalink: "/com/guide"
 lang: en
 ---
 

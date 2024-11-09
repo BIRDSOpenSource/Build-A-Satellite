@@ -1,6 +1,7 @@
 ---
 title: Guide for Structure Team Members
 layout: default
+permalink: "structure/guide"
 lang: en
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Guide for OBC Team Members
 layout: default
+permalink: "/obc/guide"
 lang: en
 ---
 

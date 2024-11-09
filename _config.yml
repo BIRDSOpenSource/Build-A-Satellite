@@ -119,9 +119,9 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   
-  adcs-members:
-    permalink: "/:collection/:path/"
-    output: true
+  # adcs-members:
+  #   permalink: "/:collection/:path/"
+  #   output: true
 
   bpb-members:
     permalink: "/:collection/:path/"
@@ -167,10 +167,10 @@ just_the_docs:
       name: For COM Team Members
       nav_fold: true  
 
-    # Reference the "adcs-members" collection
-    adcs-members:
-      name: For ADCS Team Members
-      nav_fold: true
+    # # Reference the "adcs-members" collection
+    # adcs-members:
+    #   name: For ADCS Team Members
+    #   nav_fold: true
 
     # Reference the "bpb-members" collection
     bpb-members:
