@@ -6,20 +6,16 @@ lang: en
 ---
 
 # *Get Started*
-{: .no_toc }
 
 {: .caution }
 We are currently in the process of updating much of our training content referencing documents from the BIRDS-X satellite.
 
-- Table of Contents
-{:toc}
 
-1. **Read the Background**:
-   - Visit the [project’s documentation site link] for detailed guides and subsystem overviews.
-   - **Testing Procedures**:
-     - Each subsystem has its test protocols found [link to test documentation].
-   - **Documentation**:
-     - Follow templates provided in the [link to documentation folder].
+The content on this site is divided into several sections, each of which is focused on building skills in a particular subsystem. 
+   
+   The [Background] page first introduces you to the systems engineering satellite development process and the BIRDS satellite bus itself before moving on to tasks specific to manipulating the BIRDS Bus. 
+   
+Afterwards, deeper exploration is encouraged with some application demos, which provide a good sense of what a real BIRDS Bus usage scenario entails.
 
 [Project manager]({{site.url}}/pm/guide/){: .btn }
 [Structure]({{site.url}}/structure/guide){: .btn .btn-blue }
@@ -28,3 +24,6 @@ We are currently in the process of updating much of our training content referen
 [EPS]({{site.url}}/eps/guide){: .btn .btn-blue }
 [BPB]({{site.url}}/bpb/guide){: .btn .btn-purple  }
 
+----
+
+[Background]: {{site.url}}

@@ -16,9 +16,7 @@ We are currently in the process of updating much of our training content referen
 
 ## **1. Introduction**
   
-   This guide is intended to facilitate a comprehensive understanding of the usage of BIRDS Bus subsystem testing documents, empowering team members and collaborators to follow standardized procedures for reliable subsystem performance.
-
-   The content on this site is divided into several sections, each of which is focused on building skills in a particular subsystem. This `Background` page first introduces you to the systems engineering satellite development process and the BIRDS satellite bus itself before moving on to tasks specific to manipulating the BIRDS Bus. Afterwards, deeper exploration is encouraged with some application demos, which provide a good sense of what a real BIRDS Bus usage scenario entails. 
+   This guide is intended to facilitate a comprehensive understanding of the usage of BIRDS Bus subsystem testing documents, empowering team members and collaborators to follow standardized procedures for reliable subsystem performance. 
 
    This document outlines the purpose, structure, and practical steps for using the testing process and procedural guides for subsystems such as the 
    - On-Board Computer (OBC), 
@@ -89,9 +87,9 @@ These phases create a structured pathway from conceptualization to launch, with 
 
 ## **3. What is in the BIRDS bus?**
 <p align="center">
-  <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-ext-assembly.png" width="55%">
+  <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-ext-assembly.png" width="45%">
 &nbsp;
-  <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-layout.png" width="55%">
+  <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-layout.png" width="45%">
 </p>
 
 - The bus includes the following key components:
@@ -100,16 +98,19 @@ These phases create a structured pathway from conceptualization to launch, with 
      - **Electrical Power System (EPS)**: Manages power generation, storage, and distribution.
      - **Attitude Determination and Control System (ADCS)**: Controls satellite orientation and stability.
      - **Communications (COM)**: Oversees data transmission to and from the satellite.
+          <p align="center">
+      <img alt="birdsx-com" src="/assets/images/birdsx-com.png" width="25%">
+    </p>
      - **Structure**: Designs and constructs the satellite’s physical frame.
     <p align="center">
-      <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-frame.png" width="65%">
+      <img alt="birdsx-frame" src="/assets/images/birdsx-frame.png" width="45%">
     &nbsp;
-      <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-frame-assembly.png" width="65%">
+      <img alt="birdsx-board-frame" src="/assets/images/birdsx-board-frame-assembly.png" width="45%">
     </p>
      - **Payload**: Manages mission-specific instruments or sensors.
      - **Backplane (BPB)**: Integrates all the subsystems and allows transfer of power and data to each of them.
      <p align="center">
-      <img alt="birdsx-ext-assembly" src="/assets/images/bpb-birdsx.png" width="25%">
+      <img alt="birdsx-bpb" src="/assets/images/bpb-birdsx.png" width="15%">
     </p>
 
 ## *Organizational Chart*
