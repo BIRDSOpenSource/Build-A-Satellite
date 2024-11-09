@@ -89,9 +89,9 @@ These phases create a structured pathway from conceptualization to launch, with 
 
 ## **3. What is in the BIRDS bus?**
 <p align="center">
-  <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-ext-assembly.png" width="45%">
+  <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-ext-assembly.png" width="55%">
 &nbsp;
-  <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-layout.png" width="45%">
+  <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-layout.png" width="55%">
 </p>
 
 - The bus includes the following key components:
@@ -101,15 +101,16 @@ These phases create a structured pathway from conceptualization to launch, with 
      - **Attitude Determination and Control System (ADCS)**: Controls satellite orientation and stability.
      - **Communications (COM)**: Oversees data transmission to and from the satellite.
      - **Structure**: Designs and constructs the satellite’s physical frame.
-<p align="center">
-  <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-frame.png" width="45%">
-&nbsp;
-  <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-frame-assembly.png" width="45%">
-</p>
-
+    <p align="center">
+      <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-frame.png" width="65%">
+    &nbsp;
+      <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-frame-assembly.png" width="65%">
+    </p>
      - **Payload**: Manages mission-specific instruments or sensors.
      - **Backplane (BPB)**: Integrates all the subsystems and allows transfer of power and data to each of them.
-     ![](/assets/images/bpb-birdsx.png)
+     <p align="center">
+      <img alt="birdsx-ext-assembly" src="/assets/images/bpb-birdsx.png" width="25%">
+    </p>
 
 ## *Organizational Chart*
 {: .no_toc }
@@ -129,19 +130,7 @@ These phases create a structured pathway from conceptualization to launch, with 
      - **Sensing Devices**: Magnetometers, gyroscopes for ADCS
    - **Version Control**: Git/ [GitHub] 
 
-## **4. Getting Started Steps**
-1. **Read the Documentation**:
-   - Visit the [project’s documentation site link] for detailed guides and subsystem overviews.
-   - **Testing Procedures**:
-     - Each subsystem has its test protocols found [link to test documentation].
-   - **Documentation**:
-     - Follow templates provided in the [link to documentation folder].
-
-[Project manager]({{site.url}} project-managers/pm-guide/){: .btn }
-[OBC](https://just-the-docs.com){: .btn .btn-purple }
-[EPS](https://just-the-docs.com){: .btn .btn-blue }
-[COM](https://just-the-docs.com){: .btn .btn-green }
-[BPB](https://just-the-docs.com){: .btn .btn-outline }
+## **4. [Getting Started Steps](https://github.com/BIRDSOpenSource/Build-A-Satellite/get-started){: .btn .btn-purple }**
 
 ----
 

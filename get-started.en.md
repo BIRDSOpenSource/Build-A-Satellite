@@ -1,11 +1,11 @@
 ---
-title: Getting Started
+title: Get Started
 layout: default
-permalink: "/"
+permalink: "/get-started"
 lang: en
 ---
 
-# *Getting Started*
+# *Get Started*
 {: .no_toc }
 
 {: .caution }
@@ -22,7 +22,7 @@ We are currently in the process of updating much of our training content referen
      - Follow templates provided in the [link to documentation folder].
 
 [Project manager]({{site.url}} project-managers/pm-guide/){: .btn }
-[OBC](https://just-the-docs.com){: .btn .btn-purple }
+[OBC]({% link /_obc-members/obc-guide.md %}){: .btn .btn-purple }
 [EPS](https://just-the-docs.com){: .btn .btn-blue }
 [COM](https://just-the-docs.com){: .btn .btn-green }
 [BPB](https://just-the-docs.com){: .btn .btn-outline }
