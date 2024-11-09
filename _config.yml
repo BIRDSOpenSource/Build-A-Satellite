@@ -1,15 +1,19 @@
+# site settings
+
 title: Build-A-Satellite
 description: The BIRDS Build-A-Satellite Project is a comprehensive guide for designing, building, testing, and launching a small satellite. Whether you’re a beginner or an experienced developer, our documentation is structured to assist you at every stage of the satellite development process.
-theme: just-the-docs
 email: null
+
+# theme
+
+theme: just-the-docs
+
+# urls
+
 repository: BIRDSOpenSource/Build-A-Satellite/ # for github-metadata
 url: https://birdsopensource.github.io/Build-A-Satellite/
-
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/birds-logo-light.png"
-
-# Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/birds-logo-light.png" # Set a path/url to a logo that will be displayed instead of the title
+favicon_ico: "/assets/images/favicon.ico" # Set a path/url to a favicon that will be displayed by the browser
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -200,5 +204,14 @@ callouts:
     color: blue
     opacity: 0.7
 
-plugins:
-  - jekyll-spaceship
+# l10n
+
+languages: ["en", "jp"]
+default_lang: "en"
+exclude_from_localization: ["assets/diagrams", "assets/images"]
+parallel_localization: true
+language_labels:
+  en: English
+  jp: 日本語
+sass:
+  sourcemap: never

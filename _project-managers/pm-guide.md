@@ -1,6 +1,7 @@
 ---
 title: Guide for Project Managers
 layout: default
+lang: en
 ---
 
 # Guide for Project Managers
