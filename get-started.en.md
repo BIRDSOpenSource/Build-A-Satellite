@@ -21,8 +21,8 @@ We are currently in the process of updating much of our training content referen
    - **Documentation**:
      - Follow templates provided in the [link to documentation folder].
 
-[Project manager]({{site.url}} project-managers/pm-guide/){: .btn }
-[OBC]({% link /_obc-members/obc-guide.md %}){: .btn .btn-purple }
+[Project manager]({{site.url}}/project-managers/pm-guide/){: .btn }
+[OBC]({{site.url}}/_obc-members/obc-guide.md){: .btn .btn-purple }
 [EPS](https://just-the-docs.com){: .btn .btn-blue }
 [COM](https://just-the-docs.com){: .btn .btn-green }
 [BPB](https://just-the-docs.com){: .btn .btn-outline }

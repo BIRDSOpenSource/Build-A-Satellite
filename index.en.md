@@ -130,7 +130,7 @@ These phases create a structured pathway from conceptualization to launch, with 
      - **Sensing Devices**: Magnetometers, gyroscopes for ADCS
    - **Version Control**: Git/ [GitHub] 
 
-## **4. [Getting Started Steps](https://github.com/BIRDSOpenSource/Build-A-Satellite/get-started){: .btn .btn-purple }**
+## **4. [Getting Started Steps]({{site.url}}/get-started){: .btn .btn-purple }**
 
 ----
 
