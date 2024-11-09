@@ -1,6 +1,7 @@
 ---
 title: Guide for Project Managers
 layout: default
+permalink: "/pm/guide"
 lang: en
 ---
 

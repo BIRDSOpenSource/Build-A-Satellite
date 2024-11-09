@@ -1,6 +1,7 @@
 ---
 title: Guide for EPS Team Members
 layout: default
+permalink: "/eps/guide"
 lang: en
 ---
 
