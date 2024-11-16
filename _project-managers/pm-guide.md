@@ -47,8 +47,8 @@ Some of the responsibilities of a project manager include:
 ### Documentation Management
 {:toc}
 
-- [Choose a DMS]({{site.url}}/_project-managers/pm-choose-a-dms.md)
-- [File/ Folder Naming Conventions]({{site.url}}/pm/guide/)
+- [Choose a DMS]({{/_project-managers/pm-choose-a-dms.md}})
+- [File/ Folder Naming Conventions]({{/_project-managers/pm-naming-conventionsl}})
 - [Organise sub-team meetings]({{site.url}}/pm/guide/)
 
 ### Risk Management
@@ -58,21 +58,15 @@ Some of the responsibilities of a project manager include:
 - [Organise sub-team meetings]({{site.url}}/pm/guide/)
 
 
-## Prepare for milestones
+### Prepare for milestones
 {:toc}
 
 - [Make requirement list for MDR]({{site.url}}/pm/guide/)
 - [Make requirement list for PDR]({{site.url}}/pm/guide/)
 - [Make requirement list for CDR]({{site.url}}/pm/guide/)
 
-## Project Management Tools and Techniques
+### Project Management Tools and Techniques
 {:toc}
-
-
-
-## Leadership and Team Dynamics
-{:toc}
-
 
 
 ## Resources for Further Learning
