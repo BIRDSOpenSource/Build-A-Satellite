@@ -5,7 +5,7 @@ permalink: "structure/guide"
 lang: en
 ---
 
-# *We make space sector capacity building accessible to everyone*
+# Guide for Structure Team Members
 {: .no_toc }
 
 

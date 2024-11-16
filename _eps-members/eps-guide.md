@@ -5,7 +5,7 @@ permalink: "/eps/guide"
 lang: en
 ---
 
-# *We make space sector capacity building accessible to everyone*
+# Guide for EPS Team Members
 {: .no_toc }
 
 

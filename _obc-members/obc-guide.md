@@ -5,7 +5,7 @@ permalink: "/obc/guide"
 lang: en
 ---
 
-# *We make space sector capacity building accessible to everyone*
+# Guide for OBC Team Members
 {: .no_toc }
 
 

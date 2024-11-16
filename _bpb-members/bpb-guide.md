@@ -5,7 +5,7 @@ permalink: "/bpb/guide"
 lang: en
 ---
 
-# *We make space sector capacity building accessible to everyone*
+# Guide for BPB Team Members
 {: .no_toc }
 
 
