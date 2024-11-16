@@ -11,7 +11,7 @@ theme: just-the-docs
 # urls
 
 repository: BIRDSOpenSource/Build-A-Satellite/ # for github-metadata
-url: https://birdsopensource.github.io/Build-A-Satellite/
+url: https://birdsopensource.github.io/Build-A-Satellite
 logo: "/assets/images/birds-logo-light.png" # Set a path/url to a logo that will be displayed instead of the title
 favicon_ico: "/assets/images/favicon.ico" # Set a path/url to a favicon that will be displayed by the browser
 

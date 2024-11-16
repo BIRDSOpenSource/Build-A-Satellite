@@ -5,7 +5,7 @@ permalink: "/adcs/guide"
 lang: en
 ---
 
-# *We make space sector capacity building accessible to everyone*
+# Guide for ADCS Team Members
 {: .no_toc }
 
 

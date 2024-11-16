@@ -5,7 +5,7 @@ permalink: "/com/guide"
 lang: en
 ---
 
-# *We make space sector capacity building accessible to everyone*
+# Guide for COM Team Members
 {: .no_toc }
 
 

@@ -8,9 +8,6 @@ lang: en
 # Guide for Project Managers
 {: .no_toc }
 
-{: .caution }
-We are trying to make this resource as comprehensive as possible but this is by no means the only resource you should refer to when starting your work.
-
 
 - Table of Contents
 {:toc}
@@ -56,14 +53,23 @@ Some of the responsibilities of a project manager include:
 - [Make a satellite schedule]({{site.url}}/pm/guide/)
 - [Organise weekly meetings]({{site.url}}/pm/guide/)
 - [Organise sub-team meetings]({{site.url}}/pm/guide/)
-
+Project managers have several risk management tasks, including:
+Identifying risks: The first step in the risk management process, this involves finding events that could impact the project. 
+Analyzing risks: Using risk analysis methods to prepare for and react to risks. 
+Developing a risk management plan: A document that identifies, prioritizes, and documents risks, and outlines how to deal with them. 
+Creating a risk response plan: Developing strategies to address risks and reduce their impact on the project. 
+Keeping a risk register: A document that tracks risks before they escalate, making it easier to find solutions. 
+Communicating risks: Communicating the right risk to the right person at the right level. 
+Monitoring risks: Staying vigilant to prevent obstacles and threats from escalating. 
+Taking corrective action: Taking action as needed. 
+Risk management is an important competency for project managers, as it helps teams prepare for any outcome.
 
 ### Prepare for milestones
 {:toc}
 
-- [Make requirement list for MDR]({{site.url}}/pm/guide/)
-- [Make requirement list for PDR]({{site.url}}/pm/guide/)
-- [Make requirement list for CDR]({{site.url}}/pm/guide/)
+- [Make requirement list for MDR]({{site.url}})
+- [Make requirement list for PDR]({{site.url}})
+- [Make requirement list for CDR]({{site.url}})
 
 ### Project Management Tools and Techniques
 {:toc}
