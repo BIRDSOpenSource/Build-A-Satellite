@@ -29,47 +29,39 @@ Some of the responsibilities of a project manager include:
 - Building a team: Choosing team members with the right skill set and leading them effectively
 
 
-## How-tos
+## How-to
 {:toc}
 
 ### Manage your team
 {:toc}
 
-- [Make a satellite schedule]({{site.url}}/pm/guide/)
-- [Organise weekly meetings]({{site.url}}/pm/guide/)
-- [Organise sub-team meetings]({{site.url}}/pm/guide/)
-- [Organise social events for your team]({{site.url}}/pm/guide/)
+- [Plan satellite lifecycle]({{site.url}}/project-managers/pm-lifecycle-plan)
+- [Organise meetings]({{site.url}}/project-managers/pm-org-meetings)
+- [Encourage your team]({{site.url}}/project-managers/pm-encourage-team)
 
 
 ### Documentation Management
 {:toc}
 
-- [Choose a DMS]({{/_project-managers/pm-choose-a-dms.md}})
-- [File/ Folder Naming Conventions]({{/_project-managers/pm-naming-conventionsl}})
-- [Organise sub-team meetings]({{site.url}}/pm/guide/)
+- [Choose a DMS]({{site.url}}/project-managers/pm-choose-a-dms)
+- [File/ Folder Naming Conventions]({{site.url}}/project-managers/pm-naming-conventions)
 
 ### Risk Management
 {:toc}
-- [Make a satellite schedule]({{site.url}}/pm/guide/)
-- [Organise weekly meetings]({{site.url}}/pm/guide/)
-- [Organise sub-team meetings]({{site.url}}/pm/guide/)
-Project managers have several risk management tasks, including:
-Identifying risks: The first step in the risk management process, this involves finding events that could impact the project. 
-Analyzing risks: Using risk analysis methods to prepare for and react to risks. 
-Developing a risk management plan: A document that identifies, prioritizes, and documents risks, and outlines how to deal with them. 
-Creating a risk response plan: Developing strategies to address risks and reduce their impact on the project. 
-Keeping a risk register: A document that tracks risks before they escalate, making it easier to find solutions. 
-Communicating risks: Communicating the right risk to the right person at the right level. 
-Monitoring risks: Staying vigilant to prevent obstacles and threats from escalating. 
-Taking corrective action: Taking action as needed. 
-Risk management is an important competency for project managers, as it helps teams prepare for any outcome.
+- [Identify and analyze risks]({{site.url}}/project-managers/pm-identify-analyze-risks)
+- [Develop a risk management plan]({{site.url}}/project-managers/pm-risk-mgmt-plan)
+- [Communicate and Monitor risks]({{site.url}}/project-managers/pm-monitor-risk)
+
 
 ### Prepare for milestones
 {:toc}
 
-- [Make requirement list for MDR]({{site.url}})
-- [Make requirement list for PDR]({{site.url}})
-- [Make requirement list for CDR]({{site.url}})
+- [Make requirement list for MDR]({{site.url}}/project-managers/pm-mdr-reqs)
+- [Make requirement list for PDR]({{site.url}}/project-managers/pm-pdr-reqs)
+- [Make requirement list for CDR]({{site.url}}/project-managers/pm-cdr-reqs)
+- [Organise Frequency Coordination]({{site.url}}/project-managers/pm-freq-coord)
+- [Organise Safety Review]({{site.url}}/project-managers/pm-safety-review)
+- [Organise Flight Readiness Review]({{site.url}}/project-managers/pm-frr)
 
 ### Project Management Tools and Techniques
 {:toc}

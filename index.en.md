@@ -86,7 +86,7 @@ If you would want to contribute to, or work with the [BIRDS] community in order 
 These phases create a structured pathway from conceptualization to launch, with each review and testing stage serving as a critical checkpoint. The **Mission Definition Review** sets the scope, the **Preliminary Design Review** checks the initial design feasibility, the **Critical Design Review** finalizes the detailed design, and **Flight Model Testing** ensures that the satellite is robust and mission-ready. This structured approach helps in mitigating risks, ensuring quality, and promoting mission success.
 
 ## **3. What is in the BIRDS bus?**
-<p align="center">
+<p>
   <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-ext-assembly.png" width="45%">
 &nbsp;
   <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-layout.png" width="45%">
@@ -98,27 +98,31 @@ These phases create a structured pathway from conceptualization to launch, with 
      - **Electrical Power System (EPS)**: Manages power generation, storage, and distribution.
      - **Attitude Determination and Control System (ADCS)**: Controls satellite orientation and stability.
      - **Communications (COM)**: Oversees data transmission to and from the satellite.
-          <p align="center">
+          <center>
+          <p>
       <img alt="birdsx-com" src="/assets/images/birdsx-com.png" width="25%">
           </p>
+          </center>
      - **Structure**: Designs and constructs the satellite’s physical frame.
-          <p align="center">
+          <p>
       <img alt="birdsx-frame" src="/assets/images/birdsx-frame.png" width="45%">
     &nbsp;
       <img alt="birdsx-board-frame" src="/assets/images/birdsx-board-frame-assembly.png" width="45%">
           </p>
      - **Payload**: Manages mission-specific instruments or sensors.
      - **Backplane (BPB)**: Integrates all the subsystems and allows transfer of power and data to each of them.
-     <p align="center">
+          <center>         
+          <p>
       <img alt="birdsx-bpb" src="/assets/images/bpb-birdsx.png" width="15%">
-    </p>
+          </p>
+          </center>
 
 ## *Organizational Chart*
 {: .no_toc }
 [![](https://mermaid.ink/img/pako:eNp1kV1vgjAUhv9Kc65cgqaVL-ViiYBxX0wTdrXiRQdVSYCaUrI58b-vMmO2hTXnoud9n5yck_cIqcg4eLApxHu6Y1KhlzCpkH4zGjPFiyJXfI2Gw1vkDxZSNFWGYr4teaVu_uGCQbxnKf-DBZ0X0hU7FIJl65_qnEYsr5Df1Bc57OQ24uUbl8hp0YJGeV3nohqSXsRt0d0VGV-Q-S-EtOiexko2qWok70XGLXqgwTLqNc0WPdJZGMS9rtWiJzpf9Zt2iyK69INeU1_3TP2VvwYDSi5Llmc6j-MZTUDteMkT8PQ34xvWFCqBpDpplDVKxIcqBU-fxA3Q0Wx34G1YUeuu2Wc6lDBnW8nKq8qzXAkZfSfeBW_AnlXgHeEDPOKQke1MiS7sTrFtuwYcwDOJNcLndjIlpoWJczLgUwg9FY8ch0zwBLumPcaOg61u3Gtnnrc6fQFYEbPP?type=png)](https://mermaid.live/edit#pako:eNp1kV1vgjAUhv9Kc65cgqaVL-ViiYBxX0wTdrXiRQdVSYCaUrI58b-vMmO2hTXnoud9n5yck_cIqcg4eLApxHu6Y1KhlzCpkH4zGjPFiyJXfI2Gw1vkDxZSNFWGYr4teaVu_uGCQbxnKf-DBZ0X0hU7FIJl65_qnEYsr5Df1Bc57OQ24uUbl8hp0YJGeV3nohqSXsRt0d0VGV-Q-S-EtOiexko2qWok70XGLXqgwTLqNc0WPdJZGMS9rtWiJzpf9Zt2iyK69INeU1_3TP2VvwYDSi5Llmc6j-MZTUDteMkT8PQ34xvWFCqBpDpplDVKxIcqBU-fxA3Q0Wx34G1YUeuu2Wc6lDBnW8nKq8qzXAkZfSfeBW_AnlXgHeEDPOKQke1MiS7sTrFtuwYcwDOJNcLndjIlpoWJczLgUwg9FY8ch0zwBLumPcaOg61u3Gtnnrc6fQFYEbPP)
 
 
-## **3. What tools do we use in development?**
+## **4. What tools do we use in development?**
    - **Software**:
      - **Computer Aided Design (CAD) tools for Design**: Fusion 360
      - **Simulation Tools**: Thermal desktop, STK for mission analysis
@@ -131,7 +135,7 @@ These phases create a structured pathway from conceptualization to launch, with 
      - **Sensing Devices**: Magnetometers, gyroscopes for ADCS
    - **Version Control**: Git/ [GitHub] 
 
-## **4. [Getting Started Steps]({{site.url}}/get-started){: .btn .btn-purple }**
+## [Getting Started]({{site.url}}/get-started){: .btn .btn-purple }
 
 ----
 
