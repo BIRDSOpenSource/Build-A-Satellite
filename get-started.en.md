@@ -20,7 +20,7 @@ Afterwards, deeper exploration is given with templates, tutoirals, and applicati
 
 What is your role in your satellite project?
 
-[Project manager]({{site.url}}/pm/guide/){: .btn }
+[Project manager]({{site.url}}/pm/guide){: .btn }
 [Structure]({{site.url}}/structure/guide){: .btn .btn-blue }
 [OBC]({{site.url}}/obc/guide){: .btn .btn-purple }
 [COM]({{site.url}}/com/guide){: .btn .btn-green }
