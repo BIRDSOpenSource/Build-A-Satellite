@@ -100,13 +100,13 @@ These phases create a structured pathway from conceptualization to launch, with 
      - **Communications (COM)**: Oversees data transmission to and from the satellite.
           <p align="center">
       <img alt="birdsx-com" src="/assets/images/birdsx-com.png" width="25%">
-    </p>
+          </p>
      - **Structure**: Designs and constructs the satellite’s physical frame.
-    <p align="center">
+          <p align="center">
       <img alt="birdsx-frame" src="/assets/images/birdsx-frame.png" width="45%">
     &nbsp;
       <img alt="birdsx-board-frame" src="/assets/images/birdsx-board-frame-assembly.png" width="45%">
-    </p>
+          </p>
      - **Payload**: Manages mission-specific instruments or sensors.
      - **Backplane (BPB)**: Integrates all the subsystems and allows transfer of power and data to each of them.
      <p align="center">
