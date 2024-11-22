@@ -90,7 +90,7 @@ These phases create a structured pathway from conceptualization to launch, with 
 ![]({{ site.url }}/assets/images/birdsx-ext-assembly.png)
 
 <p>
-  <img alt="birdsx-ext-assembly" src="/assets/images/birdsx-ext-assembly.png" width="45%">
+  <![]({{ site.url }}/assets/images/birdsx-ext-assembly.png) width="45%">
 &nbsp;
   <img alt="birdsx-board-layout" src="/assets/images/birdsx-board-layout.png" width="45%">
 </p>
