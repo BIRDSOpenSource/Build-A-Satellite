@@ -86,9 +86,10 @@ If you would want to contribute to, or work with the [BIRDS] community in order 
 These phases create a structured pathway from conceptualization to launch, with each review and testing stage serving as a critical checkpoint. The **Mission Definition Review** sets the scope, the **Preliminary Design Review** checks the initial design feasibility, the **Critical Design Review** finalizes the detailed design, and **Flight Model Testing** ensures that the satellite is robust and mission-ready. This structured approach helps in mitigating risks, ensuring quality, and promoting mission success.
 
 ## **3. What is in the BIRDS bus?**
-|    |    |
-|----|----|
-|  ![]({{ site.url }}/assets/images/birdsx-ext-assembly.png)  |  ![]({{ site.url }}/assets/images/birdsx-board-layout.png)  |
+
+|                                                                  |                                                               | 
+| :--------------------------------------------------------------- |  -----------------------------------------------------------: |
+| ![]({{ site.url }}/assets/images/birdsx-ext-assembly.png)        |   ![]({{ site.url }}/assets/images/birdsx-board-layout.png)   |
 
 
 - The bus includes the following key components:
