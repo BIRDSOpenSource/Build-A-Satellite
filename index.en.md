@@ -93,14 +93,18 @@ These phases create a structured pathway from conceptualization to launch, with 
 
 - The bus includes the following key components:
      - **On-Board Computer (OBC)**: Handles the satellite’s core computing needs.
-        ![]({{ site.url }}/assets/images/birdsx-obc.png)
+|     |                                                      |     |                                                            
+| --- |  :-------------------------------------------------: | --- |
+|     |   ![]({{ site.url }}/assets/images/birdsx-obc.png)   |     |
      - **Electrical Power System (EPS)**: Manages power generation, storage, and distribution.
      - **Attitude Determination and Control System (ADCS)**: Controls satellite orientation and stability.
      - **Communications (COM)**: Oversees data transmission to and from the satellite.
         ![]({{ site.url }}/assets/images/birdsx-com.png)
      - **Structure**: Designs and constructs the satellite’s physical frame.
-        ![]({{ site.url }}/assets/images/birdsx-frame.png)
-        ![]({{ site.url }}/assets/images/birdsx-board-frame-assembly.png)
+|                                                     |                                                                     | 
+| :-------------------------------------------------- |  -----------------------------------------------------------------: |
+| ![]({{ site.url }}/assets/images/birdsx-frame.png)  |  ![]({{ site.url }}/assets/images/birdsx-board-frame-assembly.png)  |        
+        
      - **Payload**: Manages mission-specific instruments or sensors.
      - **Backplane (BPB)**: Integrates all the subsystems and allows transfer of power and data to each of them.
         |    |                                                    |    |
