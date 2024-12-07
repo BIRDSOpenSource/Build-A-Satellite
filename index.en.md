@@ -94,9 +94,9 @@ These phases create a structured pathway from conceptualization to launch, with 
 
 ## **3. What is in the BIRDS bus?**
 <p>
-  <img alt="birdsx-frame" src="/assets/images/birdsx-ext-assembly.png" width="45%">
+  <img alt="birdsx-frame" src="assets/images/birdsx-ext-assembly.png" width="45%">
 &nbsp;
-  <img alt="birdsx-board-frame" src="/assets/images/birdsx-board-layout.png" width="45%">
+  <img alt="birdsx-board-frame" src="assets/images/birdsx-board-layout.png" width="45%">
 </p>
 
 The bus includes the following key components:
@@ -110,15 +110,15 @@ The bus includes the following key components:
 **Communications (COM)**: Oversees data transmission to and from the satellite. 
 <center>  
   <p>
-    <img alt="birdsx-com" src="/assets/images/birdsx-com.png" width="25%">
+    <img alt="birdsx-com" src="assets/images/birdsx-com.png" width="25%">
   </p>  
 </center>
 
 **Structure**: Designs and constructs the satellite’s physical frame.
 <p>
-  <img alt="birdsx-frame" src="/assets/images/birdsx-frame.png" width="45%">
+  <img alt="birdsx-frame" src="assets/images/birdsx-frame.png" width="45%">
 &nbsp;
-  <img alt="birdsx-board-frame" src="/assets/images/birdsx-board-frame-assembly.png" width="45%">
+  <img alt="birdsx-board-frame" src="assets/images/birdsx-board-frame-assembly.png" width="45%">
 </p>
 
 **Payload**: Manages mission-specific instruments or sensors.
@@ -126,7 +126,7 @@ The bus includes the following key components:
 **Backplane (BPB)**: Integrates all the subsystems and allows transfer of power and data to each of them.
 <center>         
   <p>
-    <img alt="birdsx-bpb" src="/assets/images/bpb-birdsx.png" width="15%">
+    <img alt="birdsx-bpb" src="assets/images/bpb-birdsx.png" width="15%">
   </p>
 </center>
 
