@@ -7,7 +7,9 @@ lang: en
 # Mission Definition Review 
 {: .no_toc }
 
-Each subsystem needs to understannd what they are required to present at each milestone review.
+What does a project manager need to know and do before MDR?
+
+The PM should ensure each subsystem understands what they are required to present at each milestone review.
 
 The Mission Definition Review is the first milestone in your satellite's lifecycle.
 
