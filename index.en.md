@@ -157,4 +157,4 @@ The bus includes the following key components:
 [GitHub]: https://github.com/BIRDSOpenSource
 [our Discussions channel on Github]: https://github.com/orgs/BIRDSOpenSource/discussions/categories/ideas
 [BIRDS]: https://birds-project.com/
-[get in touch with us.]: mailto:info@kyutech-laseine.net
+[get in touch with us.]: info@kyutech-laseine.net
