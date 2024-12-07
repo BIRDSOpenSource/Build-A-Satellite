@@ -5,6 +5,13 @@ permalink: "/"
 lang: en
 ---
 
+# Focus on making great missions
+
+Build-A-Satellite gives your satellite development team a jumpstart with robust documentation tailored to the customizable BIRDS cube satellite bus, referencing susbsystem specific respositories hosted on GitHub.
+
+[Get Started Now]({{site.url}}/get-started){: .btn .btn-purple }
+
+
 # *Background*
 {: .no_toc }
 
