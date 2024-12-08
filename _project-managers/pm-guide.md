@@ -57,11 +57,19 @@ Some of the responsibilities of a project manager include:
 {:toc}
 
 - [Mission Definition Review]({{site.url}}/project-managers/pm-mdr)
+- [Frequency Coordination]({{site.url}}/project-managers/pm-freq-coord)
 - [Preliminary Design Review]({{site.url}}/project-managers/pm-pdr)
 - [Critical Design Review]({{site.url}}/project-managers/pm-cdr)
-- [Frequency Coordination]({{site.url}}/project-managers/pm-freq-coord)
 - [Safety Review]({{site.url}}/project-managers/pm-safety-review)
 - [Flight Readiness Review]({{site.url}}/project-managers/pm-frr)
+
+### Testing and integration
+{:toc}
+- [Thermanl vacuum test]({{site.url}}/project-managers/pm-tvt)
+- [Vibration test]({{site.url}}/project-managers/pm-vt)
+- [Long duration test]({{site.url}}/project-managers/pm-ldt)
+- [Long range test]({{site.url}}/project-managers/pm-ldt)
+
 
 ### Project Management Tools and Techniques
 {:toc}

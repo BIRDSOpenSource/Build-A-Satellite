@@ -15,3 +15,8 @@ The first step in the risk management process, this involves finding events that
 
 ## Analyzing risks: 
 Using risk analysis methods to prepare for and react to risks. 
+
+
+
+[Risk management plan]({{site.url}}/project-managers/pm-risk-mgmt-plan/){: .btn .btn-purple }
+[Back to guide]({{site.url}}//pm/guide#how-to){: .btn}
