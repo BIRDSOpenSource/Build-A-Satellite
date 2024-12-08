@@ -18,3 +18,7 @@ In addition to using a strong folder structure, appropriately naming your files 
 - Use reverse dates: Use the format YYYY-MM-DD to maintain chronological order. 
 - Order elements appropriately: Organize the elements in a file name based on how you'll retrieve the record. 
 - Streamline the folder structure: Avoid complex hierarchical structures that can make it harder to find files.
+
+
+[Identify & analyze risks]({{site.url}}/project-managers/pm-identify-analyze-risks/){: .btn .btn-purple }
+[Back to guide]({{site.url}}//pm/guide#how-to){: .btn}

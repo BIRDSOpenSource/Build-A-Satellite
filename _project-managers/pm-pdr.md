@@ -37,3 +37,12 @@ Let's go through what each subsystem needs to present
 
 
 ## After the Review
+
+
+
+
+
+
+
+[Critical Design Review]({{site.url}}/project-managers/pm-cdr/){: .btn .btn-purple }
+[Back to guide]({{site.url}}//pm/guide#how-to){: .btn}

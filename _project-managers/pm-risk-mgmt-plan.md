@@ -16,3 +16,10 @@ Developing strategies to address risks and reduce their impact on the project.
 
 ## Keeping a risk register: 
 A document that tracks risks before they escalate, making it easier to find solutions. 
+
+
+
+
+
+[Communicate & monitor risk]({{site.url}}/project-managers/pm-monitor-risk/){: .btn .btn-purple }
+[Back to guide]({{site.url}}//pm/guide#how-to){: .btn}

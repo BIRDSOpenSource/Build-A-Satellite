@@ -35,3 +35,12 @@ Let's go through what each subsystem needs to present
 
 
 ## After the Review
+
+
+
+
+
+
+
+[Safety Review]({{site.url}}/project-managers/pm-safety-review/){: .btn .btn-purple }
+[Back to guide]({{site.url}}//pm/guide#how-to){: .btn}

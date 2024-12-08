@@ -33,3 +33,6 @@ Users can add Google Drive to a Microsoft Teams classroom, and then access their
 Users can add third-party cloud storage options to Teams by using the Teams App Store. CloudFiles is one third-party option that is compatible with Google Drive, Microsoft Teams, and OneDrive. 
 
 When choosing between OneDrive and Google Drive, users may consider their preference for Microsoft or Google. Google Drive may be a better option for casual users and small- to medium-sized businesses, as it offers a larger free plan and lower prices than OneDrive. OneDrive may be a better option for larger businesses, as it offers cheaper 1 TB storage and faster local file sync.
+
+[File naming conventions]({{site.url}}/project-managers/pm-naming-conventions/){: .btn .btn-purple }
+[Back to guide]({{site.url}}//pm/guide#how-to){: .btn}

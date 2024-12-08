@@ -48,3 +48,5 @@ Let's go through what each subsystem needs to present
 
 
 
+[Frequency Coordination]({{site.url}}/project-managers/pm-freq-coord/){: .btn .btn-purple }
+[Back to guide]({{site.url}}//pm/guide#how-to){: .btn}
