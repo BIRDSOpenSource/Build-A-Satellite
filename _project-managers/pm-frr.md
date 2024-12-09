@@ -7,10 +7,13 @@ lang: en
 # Organise Flight Readiness Review
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
 
+- Table of Contents
+{:toc}
 
-
-
+</details>
 
 Testing and integration
 

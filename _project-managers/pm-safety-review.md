@@ -7,6 +7,13 @@ lang: en
 # Organise Safety Review
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 
 

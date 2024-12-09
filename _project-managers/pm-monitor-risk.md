@@ -7,6 +7,13 @@ lang: en
 # Communicate and Monitor risks
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 ## Communicating risks: 
 Communicating the right risk to the right person at the right level. 

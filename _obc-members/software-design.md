@@ -4,7 +4,16 @@ layout: default
 lang: en
 ---
 
-# Title
+# Software Design
+{: .no_toc}
+
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 > If you need more information about how to fill in this template, read the accompanying [guide](./guide_how-to.md).
 >

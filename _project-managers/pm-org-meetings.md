@@ -7,6 +7,14 @@ lang: en
 # Organise meetings
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
+
 Define the purpose: Make sure there's a clear reason for the meeting and that it's focused. 
 Prepare an agenda: Create a list of topics to be discussed in a logical order. Consider what needs to be addressed and what can wait for another time. You can use a meeting agenda app to collaborate on the agenda and assign action items. 
 Invite the right people: The number of attendees depends on the purpose of the meeting. For example, you might invite more people to share ideas, but fewer for problem-solving or decision-making. 

@@ -8,9 +8,13 @@ lang: en
 # Guide for COM Team Members
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
 
 - Table of Contents
 {:toc}
+
+</details>
 
 ## Introduction
 {:toc}

@@ -8,9 +8,13 @@ lang: en
 # Guide for Project Managers
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
 
 - Table of Contents
 {:toc}
+
+</details>
 
 ## Introduction
 {:toc}

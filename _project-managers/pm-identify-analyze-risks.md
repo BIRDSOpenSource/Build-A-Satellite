@@ -7,6 +7,13 @@ lang: en
 # Identify and analyze risks
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 Project managers have several risk management tasks, including:
 

@@ -16,7 +16,7 @@ The content on this site is divided into several sections, each of which is focu
    
    The [Background] page first introduces you to the systems engineering satellite development process and the BIRDS satellite bus itself before moving on to tasks specific to manipulating the BIRDS Bus. 
    
-Afterwards, deeper exploration is given with templates, tutoirals, and application demos, which provide a good sense of what a real BIRDS Bus development scenario entails.
+Afterwards, deeper exploration is given with templates, tutorials, and application demos, which provide a good sense of what a real BIRDS Bus development scenario entails.
 
 What is your role in your satellite project?
 
@@ -26,6 +26,7 @@ What is your role in your satellite project?
 [COM]({{site.url}}/com/guide){: .btn .btn-green }
 [EPS]({{site.url}}/eps/guide){: .btn .btn-blue }
 [BPB]({{site.url}}/bpb/guide){: .btn .btn-purple  }
+[ADCS]({{site.url}}/adcs/guide){: .btn .btn-green }
 
 ----
 

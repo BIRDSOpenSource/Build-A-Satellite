@@ -7,6 +7,13 @@ lang: en
 # Encourage your team
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 ## Get to know your members
 
