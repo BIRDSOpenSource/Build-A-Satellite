@@ -46,21 +46,43 @@ If you would want to contribute to, or work with the [BIRDS] community in order 
   - Mission Definition Review (MDR), 
   - Preliminary Design Review (PDR), 
   - Critical Design Review (CDR), and 
-  - Flight Model Testing (FMT) 
-  — is essential for satellite teams to manage the complexity of satellite engineering and increase the likelihood of achieving mission goals.
+  - Flight Readiness Review (FRR) 
 
 
 ```mermaid
-graph TD;
-    accTitle: the diamond pattern
-    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+gantt
+    title Satellite Milestones
+    dateFormat  YYYY-MM-DD
+    section  Mission concept 
+    MDR     :milestone, crit, a2, 2014-01-23, 4d
+    A task  :crit, done, a1, 2014-01-20, 9d
+    section Bus + Payload dev. & testing
+    PDR      :milestone, crit, a3, 2014-02-3, 4d
+    another task    :active, 2014-01-20  , 31d
+    section EM integration & testing
+    CDR     :milestone, crit, 2014-02-20, 4d
+    another task      : 2014-02-12  , 12d
+    section Software dev.
+    FM     :milestone, crit, 2014-03-09, 4d
+    another task      :active, 2014-02-03  , 38d
+    section FM integration & testing
+    another task      :2014-02-26  , 15d
+    section GS software revision
+    another task      :after a3, 30d
+    section End-to-End test
+    another task      : 2014-03-01, 13d
+    section Operation plan 
+    another task      : 2014-03-04, 12d
+    section Freq. coord. IARU
+    another task      : crit, active, after a2, 53d
+    section Satellite delivery
+    another task      : 2014-03-16,12d
+    section Launch
+    another task      : 5d
+    section Operation
+    another task      : 10d
+    section Disposal
 ```
-
-[![](https://mermaid.ink/img/pako:eNqNVU2PmzAQ_SuWDz3BCkPIB7dts6kqFbXaVQ-tuFh4QqyCTW2TNo32v3eApOySsLu5xGZmnt97M5gjzbUAmlDf9zOVa7WVRZIpQtwOKkiIAp2pLlZw5VwbwZh0JZAH7qAspQOSyhKs0wpsHxcY2WhTcUfId_z5aeqv133MQu6kxmUqrW0XeGYOtSMC9lDqGkSfl67v2z-SVGdwj-RGOo_w0CNhwGZ-wPww8MjsVHFLHLc_sYKzIYHFHlmJ50cPxHu9jeHdcwFWFqrP5UqjA-YE2fIYEAlp8UegZzk1P5SaixMY4oizsgqU6_YO9UhV9PVfTzqvCY3OOkI_GnSOqSWDGS2ziI2YvW_sUwoT-tC2rcMHnbuLEcSdKqQCMMiaVDgvJZHKQXHy7d1zRR8mO3cW87RrV4ic01jY6mHhZPus3rrf3MClvE36IoXID1ZvohBEnaXLEYVNKYude92KF5DDeScuHiF_NLrBEbEH66AaBBrYy3a8XmsejkkUXDRP-E77d6fJm4QYvMH3h0UjlC819Bp5SeqSt1IN7IAby8s3QM6uNHJj4FcDKj_ge6iNkKr38NPt_bdpxGFK42hyMLAtcg_mQJwmn3mj8h2pjd5LAeZ1rmzuXVDtQaZrWTBl1ws140PW0ta6s5N6tAK8P6XAm_nYZmW0u5AzmuBSwJY3pctoph4xlTdOPxxUThNnGvAojlCxo8mWlxZ3Td1ex2vJcUar_09BSKdN2t_93SfAozVXNDnSPzRhLL5ZzIJluFzF82AWLpYePdAEtzcsXsyiKF7NozAOHz36V2tEZV31j27dknj8B6oH7-0?type=png)](https://mermaid.live/edit#pako:eNqNVU2PmzAQ_SuWDz3BCkPIB7dts6kqFbXaVQ-tuFh4QqyCTW2TNo32v3eApOySsLu5xGZmnt97M5gjzbUAmlDf9zOVa7WVRZIpQtwOKkiIAp2pLlZw5VwbwZh0JZAH7qAspQOSyhKs0wpsHxcY2WhTcUfId_z5aeqv133MQu6kxmUqrW0XeGYOtSMC9lDqGkSfl67v2z-SVGdwj-RGOo_w0CNhwGZ-wPww8MjsVHFLHLc_sYKzIYHFHlmJ50cPxHu9jeHdcwFWFqrP5UqjA-YE2fIYEAlp8UegZzk1P5SaixMY4oizsgqU6_YO9UhV9PVfTzqvCY3OOkI_GnSOqSWDGS2ziI2YvW_sUwoT-tC2rcMHnbuLEcSdKqQCMMiaVDgvJZHKQXHy7d1zRR8mO3cW87RrV4ic01jY6mHhZPus3rrf3MClvE36IoXID1ZvohBEnaXLEYVNKYude92KF5DDeScuHiF_NLrBEbEH66AaBBrYy3a8XmsejkkUXDRP-E77d6fJm4QYvMH3h0UjlC819Bp5SeqSt1IN7IAby8s3QM6uNHJj4FcDKj_ge6iNkKr38NPt_bdpxGFK42hyMLAtcg_mQJwmn3mj8h2pjd5LAeZ1rmzuXVDtQaZrWTBl1ws140PW0ta6s5N6tAK8P6XAm_nYZmW0u5AzmuBSwJY3pctoph4xlTdOPxxUThNnGvAojlCxo8mWlxZ3Td1ex2vJcUar_09BSKdN2t_93SfAozVXNDnSPzRhLL5ZzIJluFzF82AWLpYePdAEtzcsXsyiKF7NozAOHz36V2tEZV31j27dknj8B6oH7-0)
 
 
 ### *Mission Definition Review (MDR)*
@@ -90,7 +112,7 @@ graph TD;
   - **Manufacturing Readiness**: Assessing the readiness of production facilities, supply chains, and assembly processes.
 - **Outcome**: Approval to proceed to the manufacturing and integration phase. A successful CDR means that the design is considered final, and the team can start producing and assembling components.
 
-### *Flight Model Testing (FM)*
+### *Flight Readiness Review (FRR)*
 - Flight Model Testing is the phase where the actual satellite, known as the Flight Model (FM), undergoes a series of rigorous tests to validate its performance under conditions that simulate the space environment. This is the final verification before launch.
 - **Key Activities**:
   - **Functional Testing**: Verifying that each subsystem and the satellite as a whole function as expected.
@@ -145,8 +167,22 @@ The bus includes the following key components:
 
 ## *Organizational Chart*
 {: .no_toc }
-[![](https://mermaid.ink/img/pako:eNp1kV1vgjAUhv9Kc65cgqaVL-ViiYBxX0wTdrXiRQdVSYCaUrI58b-vMmO2hTXnoud9n5yck_cIqcg4eLApxHu6Y1KhlzCpkH4zGjPFiyJXfI2Gw1vkDxZSNFWGYr4teaVu_uGCQbxnKf-DBZ0X0hU7FIJl65_qnEYsr5Df1Bc57OQ24uUbl8hp0YJGeV3nohqSXsRt0d0VGV-Q-S-EtOiexko2qWok70XGLXqgwTLqNc0WPdJZGMS9rtWiJzpf9Zt2iyK69INeU1_3TP2VvwYDSi5Llmc6j-MZTUDteMkT8PQ34xvWFCqBpDpplDVKxIcqBU-fxA3Q0Wx34G1YUeuu2Wc6lDBnW8nKq8qzXAkZfSfeBW_AnlXgHeEDPOKQke1MiS7sTrFtuwYcwDOJNcLndjIlpoWJczLgUwg9FY8ch0zwBLumPcaOg61u3Gtnnrc6fQFYEbPP?type=png)](https://mermaid.live/edit#pako:eNp1kV1vgjAUhv9Kc65cgqaVL-ViiYBxX0wTdrXiRQdVSYCaUrI58b-vMmO2hTXnoud9n5yck_cIqcg4eLApxHu6Y1KhlzCpkH4zGjPFiyJXfI2Gw1vkDxZSNFWGYr4teaVu_uGCQbxnKf-DBZ0X0hU7FIJl65_qnEYsr5Df1Bc57OQ24uUbl8hp0YJGeV3nohqSXsRt0d0VGV-Q-S-EtOiexko2qWok70XGLXqgwTLqNc0WPdJZGMS9rtWiJzpf9Zt2iyK69INeU1_3TP2VvwYDSi5Llmc6j-MZTUDteMkT8PQ34xvWFCqBpDpplDVKxIcqBU-fxA3Q0Wx34G1YUeuu2Wc6lDBnW8nKq8qzXAkZfSfeBW_AnlXgHeEDPOKQke1MiS7sTrFtuwYcwDOJNcLndjIlpoWJczLgUwg9FY8ch0zwBLumPcaOg61u3Gtnnrc6fQFYEbPP)
 
+```mermaid
+flowchart TD
+    A[Satellite] --> B(Ground Segment)
+    A[Satellite] --> C(Space Segment)
+    C --> D[Payload]
+    C --> E[Main Bus]
+    D --> |Member 8| G[Mission-1]
+    D --> |Member 7| H[Mission-2]
+    E --> |Member 1| I[Structure]
+    E --> |Member 2| J[COM]
+    E --> |Member 3| K[ADCS]
+    E --> |Member 4| L[EPS]
+    E --> |Member 5| M[OBC]
+    E --> |Member 6| N[BPB]
+```
 
 ## **4. What tools do we use in development?**
    - **Software**:
