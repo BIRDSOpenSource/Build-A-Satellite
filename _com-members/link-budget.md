@@ -4,8 +4,16 @@ layout: default
 lang: en
 ---
 
-## *We make space sector capacity building accessible to everyone*
+## Making a Link Budget
+{: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 ### *Introduction*
 
