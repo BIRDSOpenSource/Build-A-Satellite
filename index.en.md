@@ -6,20 +6,21 @@ lang: en
 ---
 
 # Focus on making great missions
-
+{: .no_toc }
 Build-A-Satellite gives your satellite development team a jumpstart with robust documentation tailored to the customizable BIRDS cube satellite bus, referencing susbsystem specific respositories hosted on GitHub.
 
 [Get Started Now]({{site.url}}/get-started){: .btn .btn-purple }
 
-
-# *Background*
-{: .no_toc }
-
-{: .caution }
-We are currently in the process of updating much of our training content referencing documents from the BIRDS-X satellite.
+<details markdown="block">
+<summary>Table of Contents</summary>
 
 - Table of Contents
 {:toc}
+
+</details>
+
+# *Background*
+{: .no_toc }
 
 ## **1. Introduction**
   
@@ -47,6 +48,17 @@ If you would want to contribute to, or work with the [BIRDS] community in order 
   - Critical Design Review (CDR), and 
   - Flight Model Testing (FMT) 
   — is essential for satellite teams to manage the complexity of satellite engineering and increase the likelihood of achieving mission goals.
+
+
+```mermaid
+graph TD;
+    accTitle: the diamond pattern
+    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 [![](https://mermaid.ink/img/pako:eNqNVU2PmzAQ_SuWDz3BCkPIB7dts6kqFbXaVQ-tuFh4QqyCTW2TNo32v3eApOySsLu5xGZmnt97M5gjzbUAmlDf9zOVa7WVRZIpQtwOKkiIAp2pLlZw5VwbwZh0JZAH7qAspQOSyhKs0wpsHxcY2WhTcUfId_z5aeqv133MQu6kxmUqrW0XeGYOtSMC9lDqGkSfl67v2z-SVGdwj-RGOo_w0CNhwGZ-wPww8MjsVHFLHLc_sYKzIYHFHlmJ50cPxHu9jeHdcwFWFqrP5UqjA-YE2fIYEAlp8UegZzk1P5SaixMY4oizsgqU6_YO9UhV9PVfTzqvCY3OOkI_GnSOqSWDGS2ziI2YvW_sUwoT-tC2rcMHnbuLEcSdKqQCMMiaVDgvJZHKQXHy7d1zRR8mO3cW87RrV4ic01jY6mHhZPus3rrf3MClvE36IoXID1ZvohBEnaXLEYVNKYude92KF5DDeScuHiF_NLrBEbEH66AaBBrYy3a8XmsejkkUXDRP-E77d6fJm4QYvMH3h0UjlC819Bp5SeqSt1IN7IAby8s3QM6uNHJj4FcDKj_ge6iNkKr38NPt_bdpxGFK42hyMLAtcg_mQJwmn3mj8h2pjd5LAeZ1rmzuXVDtQaZrWTBl1ws140PW0ta6s5N6tAK8P6XAm_nYZmW0u5AzmuBSwJY3pctoph4xlTdOPxxUThNnGvAojlCxo8mWlxZ3Td1ex2vJcUar_09BSKdN2t_93SfAozVXNDnSPzRhLL5ZzIJluFzF82AWLpYePdAEtzcsXsyiKF7NozAOHz36V2tEZV31j27dknj8B6oH7-0?type=png)](https://mermaid.live/edit#pako:eNqNVU2PmzAQ_SuWDz3BCkPIB7dts6kqFbXaVQ-tuFh4QqyCTW2TNo32v3eApOySsLu5xGZmnt97M5gjzbUAmlDf9zOVa7WVRZIpQtwOKkiIAp2pLlZw5VwbwZh0JZAH7qAspQOSyhKs0wpsHxcY2WhTcUfId_z5aeqv133MQu6kxmUqrW0XeGYOtSMC9lDqGkSfl67v2z-SVGdwj-RGOo_w0CNhwGZ-wPww8MjsVHFLHLc_sYKzIYHFHlmJ50cPxHu9jeHdcwFWFqrP5UqjA-YE2fIYEAlp8UegZzk1P5SaixMY4oizsgqU6_YO9UhV9PVfTzqvCY3OOkI_GnSOqSWDGS2ziI2YvW_sUwoT-tC2rcMHnbuLEcSdKqQCMMiaVDgvJZHKQXHy7d1zRR8mO3cW87RrV4ic01jY6mHhZPus3rrf3MClvE36IoXID1ZvohBEnaXLEYVNKYude92KF5DDeScuHiF_NLrBEbEH66AaBBrYy3a8XmsejkkUXDRP-E77d6fJm4QYvMH3h0UjlC819Bp5SeqSt1IN7IAby8s3QM6uNHJj4FcDKj_ge6iNkKr38NPt_bdpxGFK42hyMLAtcg_mQJwmn3mj8h2pjd5LAeZ1rmzuXVDtQaZrWTBl1ws140PW0ta6s5N6tAK8P6XAm_nYZmW0u5AzmuBSwJY3pctoph4xlTdOPxxUThNnGvAojlCxo8mWlxZ3Td1ex2vJcUar_09BSKdN2t_93SfAozVXNDnSPzRhLL5ZzIJluFzF82AWLpYePdAEtzcsXsyiKF7NozAOHz36V2tEZV31j27dknj8B6oH7-0)
 

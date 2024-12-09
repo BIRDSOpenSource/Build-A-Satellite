@@ -4,9 +4,16 @@ layout: default
 lang: en
 ---
 
-
 # Preliminary Design Review 
 {: .no_toc }
+
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 Each subsystem needs to understannd what they are required to present at each milestone review.
 

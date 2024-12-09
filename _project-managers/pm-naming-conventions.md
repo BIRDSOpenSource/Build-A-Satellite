@@ -3,7 +3,17 @@ title: Naming Conventions
 layout: default
 lang: en
 ---
+
 # File/ Folder Naming Conventions
+{: .no_toc }
+
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 In addition to using a strong folder structure, appropriately naming your files and folders is a boon to managing your records properly. However, it requires a establishing a system that's robust enough to help you organize and find your information while being straightforward enough that it can be understood and implemented without significant effort. This resource is designed to help you strike that appropriate balance.
 

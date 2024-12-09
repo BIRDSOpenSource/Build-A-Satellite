@@ -7,6 +7,14 @@ lang: en
 # Mission Definition Review 
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
+
 What does a project manager need to know and do before MDR?
 
 The PM should ensure each subsystem understands what they are required to present at each milestone review.

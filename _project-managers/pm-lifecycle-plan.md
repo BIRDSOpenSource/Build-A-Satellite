@@ -7,6 +7,14 @@ lang: en
 # Plan satellite lifecycle
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
+
 Most student satellite projects aim to start and complete satellite design and launch within two years. To achieve this requires meticulate planning and forsight.
 
 - Table of Contents

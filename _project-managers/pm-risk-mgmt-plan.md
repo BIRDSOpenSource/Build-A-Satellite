@@ -7,6 +7,13 @@ lang: en
 # Develop a risk management plan
 {: .no_toc }
 
+<details markdown="block">
+<summary>Table of Contents</summary>
+
+- Table of Contents
+{:toc}
+
+</details>
 
 Developing a risk management plan: 
 A document that identifies, prioritizes, and documents risks, and outlines how to deal with them. 

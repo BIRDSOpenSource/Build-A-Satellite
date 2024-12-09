@@ -8,16 +8,6 @@ lang: en
 # Guide for Project Managers
 {: .no_toc }
 
-```mermaid
-graph TD;
-    accTitle: the diamond pattern
-    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 <details markdown="block">
 <summary>Table of Contents</summary>
 
@@ -25,7 +15,6 @@ graph TD;
 {:toc}
 
 </details>
-
 
 ## Introduction
 {:toc}
