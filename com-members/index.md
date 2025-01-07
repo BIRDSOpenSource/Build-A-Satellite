@@ -2,6 +2,7 @@
 title: For COM Team Members
 has_children: true
 nav_order: 5
+permalink: 'com/guide'
 layout: default
 lang: en
 ---
@@ -33,12 +34,10 @@ Evolution of communication systems in these projects.
 {:toc}
 
 [BirdsX OBC/EPS schematic]
-
-<center>         
+        
   <p>
     <img alt="birdsx-obc-eps-com-pic-sch" src="assets/images/birdx-obc-eps-com-pic-sch.png">
   </p>
-</center>
 
 
 
