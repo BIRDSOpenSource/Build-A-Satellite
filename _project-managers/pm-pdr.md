@@ -1,5 +1,7 @@
 ---
 title: Preliminary Design Review 
+parent: Guide for Project Managers
+nav_order: 2
 layout: default
 lang: en
 ---

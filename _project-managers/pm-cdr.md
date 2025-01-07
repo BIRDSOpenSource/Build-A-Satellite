@@ -1,5 +1,7 @@
 ---
 title: Critical Design Review 
+parent: Guide for Project Managers
+nav_order: 5
 layout: default
 lang: en
 ---

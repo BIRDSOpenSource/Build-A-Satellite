@@ -1,7 +1,7 @@
 ---
-title: Guide for COM Team Members
+title: For COM Team Members
+nav_order: 4
 layout: default
-permalink: "/com/guide"
 lang: en
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Guide for Project Managers
+title: For Project Managers
+nav_order: 4
 layout: default
-permalink: "/pm/guide"
 lang: en
 ---
 

@@ -104,88 +104,52 @@ color_scheme: light
 collections:
   # Define a collection named "project-managers", its documents reside in the "_project-managers" directory
   project-managers:
-    permalink: "/:collection/:path/"
     output: true
-  
   obc-members:
-    permalink: "/:collection/:path/"
     output: true
-  
-  # eps-members:
-  #   permalink: "/:collection/:path/"
-  #   output: true
-  
   com-members:
+    output: true
+  bpb-members:
+    output: true
+  resources:
     permalink: "/:collection/:path/"
     output: true
-  
   # adcs-members:
   #   permalink: "/:collection/:path/"
   #   output: true
-
-  bpb-members:
-    permalink: "/:collection/:path/"
-    output: true
-
+  # eps-members:
+  #   permalink: "/:collection/:path/"
+  #   output: true
   # structure-members:
   #   permalink: "/:collection/:path/"
   #   output: true
 
-  resources:
-    permalink: "/:collection/:path/"
-    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-    # Reference the "project-managers" collection
     project-managers:
-      # Give the collection a name
-      name: For Project Managers
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      # nav_exclude: true
-      # Fold the collection in the navigation
-      # Supports true or false (default)
-      nav_fold: true  # note: this option is new in v0.4
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      # search_exclude: true
-
-    # Reference the "obc-members" collection
+      nav_fold: true 
     obc-members:
-      name: For OBC Team Members
+      nav_fold: true
+    com-members:
+      nav_fold: true
+    bpb-members:
+      nav_fold: true
+    resources:
       nav_fold: true  
-
     # # Reference the "eps-members" collection
     # eps-members:
     #   name: For EPS Team Members
     #   nav_fold: true  
-
-    # Reference the "com-members" collection
-    com-members:
-      name: For COM Team Members
-      nav_fold: true  
-
     # # # Reference the "adcs-members" collection
     # adcs-members:
     #   name: For ADCS Team Members
     #   nav_fold: true
-
-    # Reference the "bpb-members" collection
-    bpb-members:
-      name: For BPB Team Members
-      nav_fold: true
-
     # # Reference the "structure-members" collection
     # structure-members:
     #   name: For Structure Team Members
     #   nav_fold: true  
-
-    # Reference the "resources" collection
-    resources:
-      name: Resources
-      nav_fold: true  
 
 callouts_opacity: 0.3
 callouts:
