@@ -1,6 +1,7 @@
 ---
 title: Communicate and Monitor risks
-parent: For Project Managers
+parent: Manage Risk
+grand_parent: For Project Managers
 layout: default
 lang: en
 ---

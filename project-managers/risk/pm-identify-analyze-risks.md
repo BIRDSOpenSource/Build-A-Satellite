@@ -1,6 +1,8 @@
 ---
 title: Identify and analyze risks
-parent: For Project Managers
+parent: Manage Risk
+grand_parent: For Project Managers
+nav_order: 3
 layout: default
 lang: en
 ---

@@ -1,6 +1,7 @@
 ---
 title: Develop a risk management plan
-parent: For Project Managers
+parent: Manage Risk
+grand_parent: For Project Managers
 layout: default
 lang: en
 ---

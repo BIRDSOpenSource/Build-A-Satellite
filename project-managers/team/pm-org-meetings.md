@@ -1,6 +1,7 @@
 ---
 title: Organise meetings
-parent: For Project Managers
+parent: Manage your team
+grand_parent: For Project Managers
 layout: default
 lang: en
 ---

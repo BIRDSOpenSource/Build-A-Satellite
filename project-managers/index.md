@@ -1,7 +1,7 @@
 ---
 title: For Project Managers
 nav_order: 3
-nav_fold: true
+has_children: true
 layout: default
 lang: en
 ---

@@ -1,6 +1,7 @@
 ---
 title: Organise Frequency Coordination
 parent: Prepare for milestones
+grand_parent: For Project Managers
 nav_order: 4
 layout: default
 lang: en

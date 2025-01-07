@@ -1,6 +1,8 @@
 ---
 title: Encourage your team
-parent: For Project Managers
+parent: Manage your team
+grand_parent: For Project Managers
+nav_order: 2
 layout: default
 lang: en
 ---
