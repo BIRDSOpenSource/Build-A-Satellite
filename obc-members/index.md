@@ -1,5 +1,7 @@
 ---
-title: Guide for OBC Team Members
+title: For OBC Team Members
+has_children: true
+nav_order: 4
 layout: default
 permalink: "/obc/guide"
 lang: en

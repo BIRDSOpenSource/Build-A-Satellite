@@ -1,5 +1,7 @@
 ---
-title: Guide for Backplane Board Team Members
+title: For Backplane Board Team Members
+has_children: true
+nav_order: 6
 layout: default
 permalink: "/bpb/guide"
 lang: en

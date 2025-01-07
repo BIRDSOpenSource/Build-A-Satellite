@@ -1,10 +1,11 @@
 ---
-title: Making pin assignments
+title: Making a requirement sheet
+parent: For OBC Team Members
 layout: default
 lang: en
 ---
 
-# Making pin assignments
+# Making a requirement sheet
 {: .no_toc}
 
 <details markdown="block">

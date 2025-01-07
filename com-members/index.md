@@ -1,6 +1,7 @@
 ---
 title: For COM Team Members
-nav_order: 4
+has_children: true
+nav_order: 5
 layout: default
 lang: en
 ---

@@ -1,10 +1,11 @@
 ---
-title: Making a requirement sheet
+title: Software Design
+parent: For OBC Team Members
 layout: default
 lang: en
 ---
 
-# Making a requirement sheet
+# Software Design
 {: .no_toc}
 
 <details markdown="block">

@@ -1,5 +1,6 @@
 ---
 title: Making a Link Budget
+parent: For COM Team Members
 layout: default
 lang: en
 ---
