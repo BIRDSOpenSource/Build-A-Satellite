@@ -1,7 +1,6 @@
 ---
 title: Critical Design Review 
-parent: Guide for Project Managers
-nav_order: 5
+parent: Prepare for milestones
 layout: default
 lang: en
 ---

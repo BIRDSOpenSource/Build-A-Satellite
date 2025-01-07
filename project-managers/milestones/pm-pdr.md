@@ -1,7 +1,7 @@
 ---
 title: Preliminary Design Review 
-parent: Guide for Project Managers
-nav_order: 2
+parent: Prepare for milestones
+nav_order: 3
 layout: default
 lang: en
 ---

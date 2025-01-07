@@ -129,14 +129,19 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     project-managers:
+      name: For Project Managers
       nav_fold: true 
     obc-members:
+      name: For OBC Team Members
       nav_fold: true
     com-members:
+      name: For COM Team Members
       nav_fold: true
     bpb-members:
+      name: For BPB Team Members
       nav_fold: true
     resources:
+      name: Resources
       nav_fold: true  
     # # Reference the "eps-members" collection
     # eps-members:

@@ -1,5 +1,6 @@
 ---
 title: Get Started
+nav_order: 2
 layout: default
 permalink: "/get-started"
 lang: en

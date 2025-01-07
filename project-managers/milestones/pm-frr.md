@@ -1,7 +1,7 @@
 ---
 title: Organise Flight Readiness Review
-parent: Guide for Project Managers
-nav_order: 2
+parent: Prepare for milestones
+nav_order: 5
 layout: default
 lang: en
 ---

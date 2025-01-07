@@ -1,7 +1,7 @@
 ---
 title: Organise Safety Review
 parent: Guide for Project Managers
-nav_order: 2
+nav_order: 6
 layout: default
 lang: en
 ---

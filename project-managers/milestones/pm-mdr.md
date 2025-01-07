@@ -1,6 +1,6 @@
 ---
 title: Mission Definition Review
-parent: Guide for Project Managers
+parent: Prepare for milestones
 nav_order: 2
 layout: default
 lang: en

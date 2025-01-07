@@ -1,7 +1,6 @@
 ---
 title: Develop a risk management plan
-parent: Guide for Project Managers
-nav_order: 2
+parent: For Project Managers
 layout: default
 lang: en
 ---

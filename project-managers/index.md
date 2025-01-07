@@ -1,6 +1,7 @@
 ---
 title: For Project Managers
-nav_order: 4
+nav_order: 3
+nav_fold: true
 layout: default
 lang: en
 ---

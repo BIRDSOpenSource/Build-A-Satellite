@@ -1,7 +1,6 @@
 ---
 title: Identify and analyze risks
-parent: Guide for Project Managers
-nav_order: 2
+parent: For Project Managers
 layout: default
 lang: en
 ---
