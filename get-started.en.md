@@ -1,5 +1,6 @@
 ---
 title: Get Started
+nav_order: 2
 layout: default
 permalink: "/get-started"
 lang: en
@@ -21,12 +22,9 @@ Afterwards, deeper exploration is given with templates, tutorials, and applicati
 What is your role in your satellite project?
 
 [Project manager]({{site.url}}/pm/guide){: .btn }
-[Structure]({{site.url}}/structure/guide){: .btn .btn-blue }
-[OBC]({{site.url}}/obc/guide){: .btn .btn-purple }
+[OBC]({{site.url}}/obc/guide){: .btn .btn-blue}
 [COM]({{site.url}}/com/guide){: .btn .btn-green }
-[EPS]({{site.url}}/eps/guide){: .btn .btn-blue }
 [BPB]({{site.url}}/bpb/guide){: .btn .btn-purple  }
-[ADCS]({{site.url}}/adcs/guide){: .btn .btn-green }
 
 ----
 
