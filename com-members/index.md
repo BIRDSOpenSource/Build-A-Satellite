@@ -32,6 +32,14 @@ Evolution of communication systems in these projects.
 ## Role and Responsibilities of the COM Team
 {:toc}
 
+[BirdsX OBC/EPS schematic]
+
+<center>         
+  <p>
+    <img alt="birdsx-obc-eps-com-pic-sch" src="assets/images/birdx-obc-eps-com-pic-sch.png">
+  </p>
+</center>
+
 
 
 ## Satellite Communication Basics
@@ -78,3 +86,7 @@ Evolution of communication systems in these projects.
 {:toc}
 
 
+
+-----
+
+[BirdsX OBC/EPS schematic]: https://github.com/BIRDSOpenSource/BIRDSX-COM/blob/main/COMPIC_SCH/new_obc_eps_birds_x_v4.pdf
