@@ -21,6 +21,13 @@ lang: en
 {:toc}
 This introduction is an overview of the project, how it is organised, and how it works.
 
+. Introduction and Fundamentals
+Understanding CubeSat Communication Subsystems
+Overview of RF communication in CubeSats.
+Basics of uplink, downlink, and inter-satellite communication.
+Overview of BIRDS Communication Design
+Key lessons from BIRDS-X, BIRDS-5, and BIRDS-4.
+Evolution of communication systems in these projects.
 
 ## Role and Responsibilities of the COM Team
 {:toc}
@@ -69,6 +76,5 @@ This introduction is an overview of the project, how it is organised, and how it
 
 ## Tools and Resources for COM Teams
 {:toc}
-
 
 

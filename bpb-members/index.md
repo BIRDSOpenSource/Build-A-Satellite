@@ -1,5 +1,5 @@
 ---
-title: For Backplane Board Team Members
+title: For BPB Team Members
 has_children: true
 nav_order: 6
 layout: default

@@ -1,6 +1,7 @@
 ---
 title: Making a Link Budget
-parent: For COM Team Members
+parent: Ground Segment Integration
+grand_parent: For COM Team Members
 layout: default
 lang: en
 ---
