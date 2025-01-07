@@ -1,10 +1,10 @@
 ---
-title: Software Design
+title: Making pin assignments
 layout: default
 lang: en
 ---
 
-# Software Design
+# Making pin assignments
 {: .no_toc}
 
 <details markdown="block">
