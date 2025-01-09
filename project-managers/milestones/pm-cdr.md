@@ -7,7 +7,7 @@ layout: default
 lang: en
 ---
 
-# Critical Design Review 
+# Critical Design Review (CDR)
 {: .no_toc }
 
 <details markdown="block">
@@ -17,6 +17,14 @@ lang: en
 {:toc}
 
 </details>
+
+- The Critical Design Review is an in-depth evaluation of the final design before it transitions into production and assembly. The aim is to verify that the detailed design meets all mission requirements and is manufacturable and testable.
+- **Key Activities**:
+  - **Detailed Design Presentation**: Showcasing detailed drawings, CAD models, circuit layouts, and software implementation.
+  - **Compliance Check**: Ensuring that the design adheres to industry standards, regulatory requirements, and internal specifications.
+  - **Risk Mitigation Plans**: Reviewing the updated risk register and contingency plans.
+  - **Manufacturing Readiness**: Assessing the readiness of production facilities, supply chains, and assembly processes.
+- **Outcome**: Approval to proceed to the manufacturing and integration phase. A successful CDR means that the design is considered final, and the team can start producing and assembling components.
 
 Each subsystem needs to understand what they are required to present at each milestone review.
 

@@ -42,11 +42,6 @@ This introduction is an overview of the project, how it is organised, and how it
 {:toc}
 
 
-## Integration with Other Subsystems
-{:toc}
-
-
-
 ## Testing and Verification Procedures
 {:toc}
 

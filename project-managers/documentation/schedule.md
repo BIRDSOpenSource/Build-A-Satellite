@@ -1,13 +1,13 @@
 ---
-title: Work Breakdown Structure
+title: Project Schedule
 parent: Manage Documentation
 grand_parent: For Project Managers
-nav_order: 4
+nav_order: 5
 layout: default
 lang: en
 ---
 
-#  Work Breakdown Structure
+# Project Schedule
 
 [Previous]({{site.url}}/get-started/github-account.html){: .btn .btn-purple }
 [Next]({{site.url}}/get-started/clone-repo.html){: .btn}

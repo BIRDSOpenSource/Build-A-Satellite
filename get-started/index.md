@@ -1,12 +1,13 @@
 ---
-title: Get Started
+title: Start your journey
 nav_order: 2
+has_children: true
 layout: default
 permalink: "/get-started"
 lang: en
 ---
 
-# *Get Started*
+# *Start your journey*
 
 {: .caution }
 We are currently in the process of updating much of our training content referencing documents from the BIRDS-X satellite.

@@ -1,13 +1,14 @@
 ---
-title: Work Breakdown Structure
-parent: Manage Documentation
-grand_parent: For Project Managers
-nav_order: 4
+title: Pick a reference satellite
+nav_order: 2
+parent: Start your journey
 layout: default
 lang: en
 ---
 
-#  Work Breakdown Structure
+# Pick a reference satellite
+
+
 
 [Previous]({{site.url}}/get-started/github-account.html){: .btn .btn-purple }
 [Next]({{site.url}}/get-started/clone-repo.html){: .btn}

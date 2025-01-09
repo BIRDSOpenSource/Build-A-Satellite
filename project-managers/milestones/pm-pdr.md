@@ -7,7 +7,7 @@ layout: default
 lang: en
 ---
 
-# Preliminary Design Review 
+# Preliminary Design Review (PDR)
 {: .no_toc }
 
 <details markdown="block">
@@ -17,6 +17,14 @@ lang: en
 {:toc}
 
 </details>
+
+- The Preliminary Design Review is a crucial checkpoint to assess whether the preliminary design of the satellite meets the mission's requirements and objectives. It ensures that the basic design approach is sound before advancing to more detailed design work.
+- **Key Activities**:
+  - **Subsystem Design Overview**: Presenting initial design plans for key subsystems like OBC, EPS, ADCS, COM, payloads, and structure.
+  - **Preliminary Schematics**: Showing preliminary circuit diagrams, mechanical layouts, and software architecture.
+  - **Interface Definition**: Outlining how different subsystems will interact and integrate.
+  - **Verification Plan**: Drafting a plan for how each requirement will be tested and verified in later phases.
+- **Outcome**: Approval to move to detailed design and further development. If the PDR is successful, the project team receives a green light to refine and deepen their designs.
 
 Each subsystem needs to understannd what they are required to present at each milestone review.
 
