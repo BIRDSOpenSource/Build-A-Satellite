@@ -50,3 +50,42 @@ Additionally, the OBC oversees mission routing, ensuring that tasks like data ac
     <img alt="OBC-detailed-block-diagram" src="https://github.com/BIRDSOpenSource/BIRDSRP-OBC/blob/main/Diagrams/obc-detailed-block-diagram.png">
   </p> 
 
+
+6. Documentation and Best Practices
+Writing OBC Design Documentation
+
+Templates and examples from BIRDS missions.
+Tips for documenting hardware, software, and interfaces.
+Maintaining Open-Source Codebases for OBCs
+
+Version control practices (e.g., Git).
+Collaborative coding standards.
+7. Advanced Topics
+Developing AI/ML Algorithms for CubeSat Applications
+
+Applications: anomaly detection, autonomous navigation, and data processing.
+Tools and frameworks for edge computing on CubeSats.
+Future Trends in OBC Development
+
+Use of COTS (Commercial Off-The-Shelf) hardware.
+Low-power processors for small satellite missions.
+References and Learning Resources
+Technical Documents:
+
+BIRDS-X, BIRDS-5, and BIRDS-4 mission papers and subsystem descriptions.
+Component datasheets for microcontrollers, memory, and peripherals.
+Books and Tutorials:
+
+Books on embedded systems, real-time programming, and fault-tolerant designs.
+Online tutorials for RTOS and embedded software development.
+Simulation Tools:
+
+CubeSat simulation platforms like STK, Simulink, or GMAT.
+Tools for hardware debugging: JTAG, Logic Analyzers.
+Open-Source Repositories:
+
+CubeSat Kit repositories and software examples.
+GitHub projects related to CubeSat OBCs.
+Mission Reports and Case Studies:
+
+Lessons learned from other CubeSat missions with advanced OBC capabilities.

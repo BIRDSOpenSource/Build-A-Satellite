@@ -103,38 +103,6 @@ COM Radio Links
 
 
 
-## Frequency Selection and Licensing
-{:toc}
-
-
-
-## Transmitter and Receiver Design
-{:toc}
-
-
-
-## Antenna Design and Configuration
-{:toc}
-
-
-
-## Signal Processing and Data Encoding
-{:toc}
-
-
-
-## Link Budget Analysis
-{:toc}
-
-
-
-## Testing and Validation
-{:toc}
-
-
-
-## Documentation and Version Control
-{:toc}
 
 
 
@@ -142,7 +110,48 @@ COM Radio Links
 {:toc}
 
 
-**Key lessons from BIRDS-X, BIRDS-5, and BIRDS-4**
+7. Recent Innovations in CubeSat RF Communication
+Software-Defined Radios (SDRs):
+Enable reconfigurable communication protocols and frequencies.
+Phased Array Antennas:
+Offer dynamic beam steering for improved communication efficiency.
+Inter-Satellite Communication:
+Expanding capabilities for CubeSat constellations and swarm missions.
+8. RF Communication in BIRDS Missions
+The BIRDS project CubeSats demonstrated robust RF communication using:
+
+UHF for telemetry and beacon signals.
+S-Band for high-speed data downlink.
+Deployable monopole antennas for effective range and performance.
+
+
+Reference Types
+Technical References:
+
+Block diagrams and system schematics from BIRDS-X, 5, and 4.
+Datasheets of RF components, transceivers, and antennas used.
+Simulation results and link budget calculations.
+Standards and Guidelines:
+
+ITU frequency allocation charts.
+CCSDS protocols and CubeSat standards.
+Amateur radio guidelines for CubeSats.
+Project-Specific Documentation:
+
+BIRDS-X, BIRDS-5, and BIRDS-4 technical papers.
+Design reviews, subsystem descriptions, and testing reports.
+Software Tools and Libraries:
+
+Open-source libraries for RF communication (e.g., GNU Radio).
+Tools for link budget calculations and RF simulations.
+Case Studies and Mission Reports:
+
+Published papers on BIRDS project achievements and challenges.
+Lessons learned from CubeSat missions with communication issues.
+Tutorials and Online Resources:
+
+BIRDS project repositories and wikis.
+Tutorials on antenna design, RF testing, and ground station setup.
 
 -----
 
