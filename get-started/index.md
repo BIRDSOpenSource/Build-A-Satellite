@@ -7,26 +7,53 @@ permalink: "/get-started"
 lang: en
 ---
 
-# *Start your journey*
+# **Learn**
+{: .lh-0 .text-purple-200}
+# Everything you need to know about building a satellite with a guide to take you step-by-step.
+
+- [x] Introduction to the Birds Bus
+- [x] How to get up and running
+- [x] Deep dives on technical topics
 
 {: .caution }
 We are currently in the process of updating much of our training content referencing documents from the BIRDS-X satellite.
 
+---
 
-The content on this site is divided into several sections, each of which is focused on building skills in a particular subsystem. As the sections are topic-based, each will go through steps for the entire satellite life cycle regarding that subsystem.
+# Get started
+Build-A-Sat provides a seamless process for creating your cubesat. You can import your application by linking your Git repository, which allows you to bring in your existing codebase without hassle. This method ensures that all your code and configuration are preserved and deployed effectively on the Github platform.
 
-   
-   The [Background] page first introduces you to the systems engineering satellite development process and the BIRDS satellite bus itself before moving on to tasks specific to manipulating the BIRDS Bus. 
-   
-Afterwards, deeper exploration is given with templates, tutorials, and application demos, which provide a good sense of what a real BIRDS Bus development scenario entails.
+# Experience just how rewarding it is to create your own satellite!
+Import your application from a Git repository, share a link to an existing file archive, or start from scratch by selecting from our range of professional templates. Select the method that best fits your needs and start building your cubesat with BIRDS today.
 
-What is your role in your satellite project?
+<span class="fs-3" align="center"> 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/building.svg" width="10" height="10"> I want to start from scratch]({{site.url}}/pm/guide){: .btn .btn-outline .text-grey-lt-000 .bg-grey-dk-300}
+</span>
+<span class="fs-3" align="center"> 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/git-alt.svg" width="15" height="15"> I already have a repository]({{site.url}}/pm/guide){: .btn .btn-outline .text-grey-dk-300}
+</span>
+<span class="fs-3" align="center"> 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="10" height="10"> I have some files uploaded]({{site.url}}/pm/guide){: .btn .btn-outline .text-grey-dk-300}
+</span>
 
-[Project manager]({{site.url}}/project-managers){: .btn }
-[OBC]({{site.url}}/obc/guide){: .btn .btn-blue}
-[COM]({{site.url}}/com/guide){: .btn .btn-green }
-[BPB]({{site.url}}/bpb/guide){: .btn .btn-purple  }
+---
+## Basics
+Learn about the basics of the Birds Bus with our **basic guides**. What is an on board computer, how do you create a mission, what is a link budget and how do you test your mission? Learn all about the ins and outs of the Birds Satellite Bus.
 
-----
+Choose from a range of professional templates to kickstart your project. This option is perfect if you are beginning a new application and need a solid foundation.
 
-[Background]: {{site.url}}
+<span class="fs-2" align="center"> 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/building.svg" width="30" height="30"> <br /> Project Management]({{site.url}}/pm/guide){: .btn .btn-outline .text-grey-dk-300 .bg-grey-lt-000}
+</span>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angles-right.svg" width="10" height="10">
+<span class="fs-2" align="center"> 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-code.svg" width="30" height="30"> <br /> Command & Data Handling]({{site.url}}/obc/guide){: .btn .btn-outline .text-grey-dk-300 .bg-grey-lt-000}
+</span>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angles-right.svg" width="10" height="10">
+<span class="fs-2" align="center"> 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/comments.svg" width="50" height="50"> <br /> Communication]({{site.url}}/com/guide){: .btn .btn-outline .text-grey-dk-300 .bg-grey-lt-000}
+</span>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angles-right.svg" width="10" height="10">
+<span class="fs-2" align="center"> 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="50" height="50"> <br /> Backplane Integration]({{site.url}}/bpb/guide){: .btn .btn-outline .text-grey-dk-300 .bg-grey-lt-000}
+</span>

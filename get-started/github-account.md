@@ -1,6 +1,6 @@
 ---
 title: Create a Github Account
-nav_order: 1
+nav_order: 2
 parent: Start your journey
 layout: default
 lang: en
