@@ -2,6 +2,7 @@
 title: For Project Managers
 nav_order: 3
 has_children: true
+permalink: 'pm/guide'
 layout: default
 lang: en
 ---

@@ -1,6 +1,6 @@
 ---
 title: Clone Repository
-nav_order: 3
+nav_order: 4
 parent: Start your journey
 layout: default
 lang: en
