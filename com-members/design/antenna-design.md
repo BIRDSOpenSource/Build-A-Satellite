@@ -11,6 +11,6 @@ lang: en
 
 <center>         
   <p>
-    <img alt="birdsx-bpb" src="asset" width="15%">
+    <img alt="birdsx-com-internal" src="assets/images/birdsx-com-internal.png">
   </p>
 </center>
