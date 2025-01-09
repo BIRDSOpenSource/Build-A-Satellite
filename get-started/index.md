@@ -1,12 +1,13 @@
 ---
-title: Get Started
+title: Start your journey
 nav_order: 2
+has_children: true
 layout: default
 permalink: "/get-started"
 lang: en
 ---
 
-# *Get Started*
+# *Start your journey*
 
 {: .caution }
 We are currently in the process of updating much of our training content referencing documents from the BIRDS-X satellite.
@@ -21,7 +22,7 @@ Afterwards, deeper exploration is given with templates, tutorials, and applicati
 
 What is your role in your satellite project?
 
-[Project manager]({{site.url}}/pm/guide){: .btn }
+[Project manager]({{site.url}}/project-managers){: .btn }
 [OBC]({{site.url}}/obc/guide){: .btn .btn-blue}
 [COM]({{site.url}}/com/guide){: .btn .btn-green }
 [BPB]({{site.url}}/bpb/guide){: .btn .btn-purple  }

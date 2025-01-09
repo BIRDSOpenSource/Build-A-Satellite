@@ -18,6 +18,16 @@ lang: en
 
 </details>
 
+### **Tutorial Series Titles for OBC Members**
+#### **1. Introduction and Fundamentals**
+1. **Overview of CubeSat Onboard Computer (OBC) Systems**
+   - Role of the OBC in CubeSat subsystems.
+   - Interfaces with payloads, communication, ADCS, and EPS.
+
+2. **Evolution of OBC Design in BIRDS Projects**
+   - Lessons learned from BIRDS-X, BIRDS-5, and BIRDS-4 OBC designs.
+   - Comparisons of architectures and technologies used.
+
 ## Introduction
 {:toc}
 This guide provides foundational knowledge of CubeSat system architecture and software, tailored for new OBC team members.
@@ -39,44 +49,4 @@ Additionally, the OBC oversees mission routing, ensuring that tasks like data ac
   <p>
     <img alt="OBC-detailed-block-diagram" src="https://github.com/BIRDSOpenSource/BIRDSRP-OBC/blob/main/Diagrams/obc-detailed-block-diagram.png">
   </p> 
-
-  
-## Software Development Lifecycle for OBC
-{:toc}
-- interface control document
-- - pin assignment
-- - requirement sheet 
-
-## Software Development Lifecycle for OBC
-{:toc}
-
-
-
-## Hardware Requirements and Selection
-{:toc}
-
-
-## Communication Protocols and Data Handling
-{:toc}
-
-
-
-## Testing and Validation
-{:toc}
-
-
-
-## Fault Management and Recovery
-{:toc}
-
-
-
-## Documentation and Version Control
-{:toc}
-
-
-## Tools and Resources for OBC Teams
-{:toc}
-
-
 

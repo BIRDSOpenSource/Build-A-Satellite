@@ -1,11 +1,12 @@
 ---
-title: Software Design
-parent: For OBC Team Members
+title: Making pin assignments
+parent: Interfaces and Communication
+grand_parent: For OBC Team Members
 layout: default
 lang: en
 ---
 
-# Software Design
+# Making pin assignments
 {: .no_toc}
 
 <details markdown="block">

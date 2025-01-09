@@ -7,7 +7,7 @@ layout: default
 lang: en
 ---
 
-# Mission Definition Review 
+# Mission Definition Review (MDR)
 {: .no_toc }
 
 <details markdown="block">
@@ -17,6 +17,15 @@ lang: en
 {:toc}
 
 </details>
+
+
+- The Mission Definition Review is the initial phase where the primary objectives and feasibility of the satellite mission are assessed. It ensures that the mission concept aligns with stakeholder goals and meets basic feasibility criteria.
+- **Key Activities**:
+  - **Requirements Definition**: Establishing the mission's main objectives, such as scientific data collection, Earth observation, or communication.
+  - **Concept Analysis**: Evaluating different mission concepts and selecting the most viable one.
+  - **Preliminary Budgeting**: Outlining initial cost estimates and resource needs.
+  - **Risk Assessment**: Identifying potential high-level risks and challenges.
+- **Outcome**: Approval to proceed to the design phase. The outcome of the MDR is a clearly defined mission scope with initial high-level requirements.
 
 What does a project manager need to know and do before MDR?
 

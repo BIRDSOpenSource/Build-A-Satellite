@@ -35,3 +35,6 @@ In addition to using a strong folder structure, appropriately naming your files 
 
 [Identify & analyze risks]({{site.url}}/project-managers/pm-identify-analyze-risks/){: .btn .btn-purple }
 [Back to guide]({{site.url}}//pm/guide#how-to){: .btn}
+
+[Previous]({{site.url}}/get-started/github-account.html){: .btn .btn-purple }
+[Next]({{site.url}}/get-started/clone-repo.html){: .btn}
